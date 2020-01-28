@@ -1,6 +1,5 @@
 # unicorn-data-science
 This repository contains useful resources for the holistic data scientist. Pull requests are welcomed!
-"
 
 <!-- toc -->
 
@@ -20,7 +19,6 @@ This repository contains useful resources for the holistic data scientist. Pull 
 
 <!-- tocstop -->
 
-"
 ## Engineering
 
 ### ML engineering
