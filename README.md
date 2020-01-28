@@ -1,5 +1,7 @@
 # unicorn-data-science
-This repository contains useful resources for the holistic data scientist. Pull requests are welcomed!
+This repository contains useful resources for the holistic data scientist. 
+
+Pull requests are welcomed! See [./CONTRIBUTING.md](Contributing).
 
 --------------------
 
