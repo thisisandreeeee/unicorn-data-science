@@ -14,6 +14,9 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
   * [Probability](#probability)
   * [Hypothesis Testing](#hypothesis-testing)
 - [Machine Learning](#machine-learning)
+  * [Forecasting](#forecasting)
+  * [Regression](#regression)
+  * [Bandits](#bandits)
 - [Analytics](#analytics)
 - [Career](#career)
   * [Hiring](#hiring)
@@ -48,8 +51,14 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 
 ## Machine Learning
 - [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro)
+
+### Forecasting
 - [Sorry ARIMA, but I’m Going Bayesian](https://multithreaded.stitchfix.com/blog/2016/04/21/forget-arima/)
+
+### Regression
 - [How Instacart delivers on time (using quantile regression)](https://tech.instacart.com/how-instacart-delivers-on-time-using-quantile-regression-2383e2e03edb)
+
+### Bandits
 - [Bandit Algorithms](https://banditalgs.com/)
 
 ## Analytics
