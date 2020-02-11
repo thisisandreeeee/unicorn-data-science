@@ -1,7 +1,7 @@
 # unicorn-data-science
 This repository contains useful resources for the holistic data scientist. 
 
-Pull requests are welcomed! See [Contributing](./CONTRIBUTING.md).
+Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 
 --------------------
 
@@ -31,6 +31,7 @@ Pull requests are welcomed! See [Contributing](./CONTRIBUTING.md).
 - [https://developers.google.com/machine-learning/guides/rules-of-ml/](https://developers.google.com/machine-learning/guides/rules-of-ml/)
 - [https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/](https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/)
 - [https://github.com/alirezadir/Production-Level-Deep-Learning](https://github.com/alirezadir/Production-Level-Deep-Learning)
+- [https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43146.pdf](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43146.pdf)
 ### Experimentation
 - [https://netflixtechblog.com/interleaving-in-online-experiments-at-netflix-a04ee392ec55](https://netflixtechblog.com/interleaving-in-online-experiments-at-netflix-a04ee392ec55)
 - [https://medium.com/@DoorDash/switchback-tests-and-randomized-experimentation-under-network-effects-at-doordash-f1d938ab7c2a](https://medium.com/@DoorDash/switchback-tests-and-randomized-experimentation-under-network-effects-at-doordash-f1d938ab7c2a)
