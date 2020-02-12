@@ -34,8 +34,9 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 ### ML engineering
 - [Rules of Machine Learning: Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml/)
 - [Engineers Shouldn’t Write ETL: A Guide to Building a High Functioning Data Science Department](https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/)
-- [Production-Level-Deep-Learning](https://github.com/alirezadir/Production-Level-Deep-Learning)
 - [Machine Learning: The High-Interest Credit Card of Technical Debt](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43146.pdf)
+- [Production-Level-Deep-Learning](https://github.com/alirezadir/Production-Level-Deep-Learning)
+- [End-to-end Machine Learning with TFX on TensorFlow 2.x](https://towardsdatascience.com/end-to-end-machine-learning-with-tfx-on-tensorflow-2-x-6eda2fb5fe37)
 
 ### Experimentation
 - [Detecting Interference: An A/B Test of A/B Tests](https://engineering.linkedin.com/blog/2019/06/detecting-interference--an-a-b-test-of-a-b-tests)
@@ -46,6 +47,8 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 
 ### Distributions
 - [Probability Distribution Explorer](http://bois.caltech.edu/distribution_explorer/)
+- [Common probability distributions](https://medium.com/@srowen/common-probability-distributions-347e6b945ce4)
+- [William Chen probability cheat sheet](https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf)
 - [KDE visualisation](https://mathisonian.github.io/kde/)
 - [Modeling conversion rates and saving millions of dollars using Kaplan-Meier and gamma distributions](https://better.engineering/2019/07/29/modeling-conversion-rates-and-saving-millions-of-dollars-using-kaplan-meier-and-gamma-distributions/)
 
@@ -85,9 +88,10 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [Interviewing is a noisy prediction problem](https://erikbern.com/2018/05/02/interviewing-is-a-noisy-prediction-problem.html)
 
 ### Interviewing
-- [How to Make Your Data Science Job Application Stand Out](https://www.dataquest.io/blog/how-to-data-science-job-application-stand-out/)
+- [Conor Dewey's list of data science interview resources](https://www.conordewey.com/blog/the-big-list-of-data-science-interview-resources/)
 - [101 Data Science Interview Questions, Answers, and Key Concepts](https://blog.datasciencedojo.com/data-science-interview-questions/)
 - [How I negotiated a $300,000 job offer in Silicon Valley](https://medium.com/@bayareabelletrist/how-i-negotiated-a-software-engineer-offer-in-silicon-valley-f11590f5c656)
+- [How to Make Your Data Science Job Application Stand Out](https://www.dataquest.io/blog/how-to-data-science-job-application-stand-out/)
 - [You’re probably answering these 5 common interview questions wrong](https://www.holistics.io/blog/judge-your-company-using-three-levels-data-analysis-data-career-decision-making/)
 
 ### Consulting
