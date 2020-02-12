@@ -1,5 +1,5 @@
 # unicorn-data-science
-This repository contains useful resources for the (aspiring) unicorn data scientist. 
+This repository contains useful articles and papers for the (aspiring) unicorn data scientist. Unlike other `awesome-xyz` repositories, this does not consolidate software tools or libraries; only reading materials.
 
 Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 
@@ -14,9 +14,10 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
   * [Probability](#probability)
   * [Hypothesis Testing](#hypothesis-testing)
 - [Machine Learning](#machine-learning)
+  * [Recommendations](#recommendations)
+  * [Bandits](#bandits)
   * [Forecasting](#forecasting)
   * [Regression](#regression)
-  * [Bandits](#bandits)
 - [Analytics](#analytics)
 - [Career](#career)
   * [Hiring](#hiring)
@@ -37,8 +38,9 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [Machine Learning: The High-Interest Credit Card of Technical Debt](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43146.pdf)
 
 ### Experimentation
-- [Innovating Faster on Personalization Algorithms at Netflix Using Interleaving](https://netflixtechblog.com/interleaving-in-online-experiments-at-netflix-a04ee392ec55)
+- [Detecting Interference: An A/B Test of A/B Tests](https://engineering.linkedin.com/blog/2019/06/detecting-interference--an-a-b-test-of-a-b-tests)
 - [Switchback Tests and Randomized Experimentation Under Network Effects at DoorDash](https://medium.com/@DoorDash/switchback-tests-and-randomized-experimentation-under-network-effects-at-doordash-f1d938ab7c2a)
+- [Innovating Faster on Personalization Algorithms at Netflix Using Interleaving](https://netflixtechblog.com/interleaving-in-online-experiments-at-netflix-a04ee392ec55)
 
 ## Statistics
 
@@ -50,20 +52,28 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [Common statistical tests are linear models](https://lindeloev.github.io/tests-as-linear/)
 
 ## Machine Learning
-- [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro)
 
-### Forecasting
-- [Sorry ARIMA, but I’m Going Bayesian](https://multithreaded.stitchfix.com/blog/2016/04/21/forget-arima/)
-
-### Regression
-- [How Instacart delivers on time (using quantile regression)](https://tech.instacart.com/how-instacart-delivers-on-time-using-quantile-regression-2383e2e03edb)
+### Recommendations
+- [Google Recommendation Systems Crash Course](https://developers.google.com/machine-learning/recommendation)
+- [Deep Neural Networks for YouTube Recommendations](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf)
+- [Deep density networks and uncertainty in recommender systems](https://arxiv.org/pdf/1711.02487.pdf)
 
 ### Bandits
 - [Bandit Algorithms](https://banditalgs.com/)
+- [A Contextual-Bandit Approach to Personalized News Article Recommendation](https://arxiv.org/pdf/1003.0146.pdf)
+
+### Forecasting
+- [Our quest for robust time series forecasting at scale](http://www.unofficialgoogledatascience.com/2017/04/our-quest-for-robust-time-series.html)
+- [Sorry ARIMA, but I’m Going Bayesian](https://multithreaded.stitchfix.com/blog/2016/04/21/forget-arima/)
+
+### Regression
+- [OLS Regression Explained Visually](http://setosa.io/ev/ordinary-least-squares-regression/)
+- [How Instacart delivers on time (using quantile regression)](https://tech.instacart.com/how-instacart-delivers-on-time-using-quantile-regression-2383e2e03edb)
 
 ## Analytics
-- [Predicting Customer Lifetime Value with AI Platform: introduction](https://cloud.google.com/solutions/machine-learning/clv-prediction-with-offline-training-intro)
+- [Practical advice for analysis of large, complex data sets](http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html)
 - [What is an analytics engineer?](https://blog.getdbt.com/what-is-an-analytics-engineer/)
+- [Predicting Customer Lifetime Value with AI Platform: introduction](https://cloud.google.com/solutions/machine-learning/clv-prediction-with-offline-training-intro)
 
 ## Career
 
@@ -75,7 +85,6 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 ### Interviewing
 - [How to Make Your Data Science Job Application Stand Out](https://www.dataquest.io/blog/how-to-data-science-job-application-stand-out/)
 - [101 Data Science Interview Questions, Answers, and Key Concepts](https://blog.datasciencedojo.com/data-science-interview-questions/)
-- [keyvalues.com](https://www.keyvalues.com/)
 - [How I negotiated a $300,000 job offer in Silicon Valley](https://medium.com/@bayareabelletrist/how-i-negotiated-a-software-engineer-offer-in-silicon-valley-f11590f5c656)
 - [You’re probably answering these 5 common interview questions wrong](https://www.holistics.io/blog/judge-your-company-using-three-levels-data-analysis-data-career-decision-making/)
 
