@@ -11,12 +11,12 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
   * [ML engineering](#ml-engineering)
   * [Experimentation](#experimentation)
 - [Statistics](#statistics)
-  * [Probability](#probability)
-  * [Hypothesis Testing](#hypothesis-testing)
+  * [Distributions](#distributions)
+  * [Inference](#inference)
+  * [Forecasting](#forecasting)
 - [Machine Learning](#machine-learning)
   * [Recommendations](#recommendations)
   * [Bandits](#bandits)
-  * [Forecasting](#forecasting)
   * [Regression](#regression)
 - [Analytics](#analytics)
 - [Career](#career)
@@ -44,12 +44,17 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 
 ## Statistics
 
-### Probability
+### Distributions
 - [Probability Distribution Explorer](http://bois.caltech.edu/distribution_explorer/)
 - [KDE visualisation](https://mathisonian.github.io/kde/)
+- [Modeling conversion rates and saving millions of dollars using Kaplan-Meier and gamma distributions](https://better.engineering/2019/07/29/modeling-conversion-rates-and-saving-millions-of-dollars-using-kaplan-meier-and-gamma-distributions/)
 
-### Hypothesis Testing
+### Inference
 - [Common statistical tests are linear models](https://lindeloev.github.io/tests-as-linear/)
+
+### Forecasting
+- [Our quest for robust time series forecasting at scale](http://www.unofficialgoogledatascience.com/2017/04/our-quest-for-robust-time-series.html)
+- [Sorry ARIMA, but I’m Going Bayesian](https://multithreaded.stitchfix.com/blog/2016/04/21/forget-arima/)
 
 ## Machine Learning
 
@@ -62,18 +67,14 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [Bandit Algorithms](https://banditalgs.com/)
 - [A Contextual-Bandit Approach to Personalized News Article Recommendation](https://arxiv.org/pdf/1003.0146.pdf)
 
-### Forecasting
-- [Our quest for robust time series forecasting at scale](http://www.unofficialgoogledatascience.com/2017/04/our-quest-for-robust-time-series.html)
-- [Sorry ARIMA, but I’m Going Bayesian](https://multithreaded.stitchfix.com/blog/2016/04/21/forget-arima/)
-
 ### Regression
 - [OLS Regression Explained Visually](http://setosa.io/ev/ordinary-least-squares-regression/)
 - [How Instacart delivers on time (using quantile regression)](https://tech.instacart.com/how-instacart-delivers-on-time-using-quantile-regression-2383e2e03edb)
 
 ## Analytics
 - [Practical advice for analysis of large, complex data sets](http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html)
+- [The hacker's guide to uncertainty estimates](https://erikbern.com/2018/10/08/the-hackers-guide-to-uncertainty-estimates.html)
 - [What is an analytics engineer?](https://blog.getdbt.com/what-is-an-analytics-engineer/)
-- [Predicting Customer Lifetime Value with AI Platform: introduction](https://cloud.google.com/solutions/machine-learning/clv-prediction-with-offline-training-intro)
 
 ## Career
 
@@ -81,6 +82,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [How to Consistently Hire Remarkable Data Scientists](https://firstround.com/review/how-to-consistently-hire-remarkable-data-scientists/)
 - [How Coursera Competes Against Google and Facebook for the Best Talent](https://firstround.com/review/this-is-how-coursera-competes-against-google-and-facebook-for-the-best-talent/)
 - [How to hire smarter than the market: a toy model](https://erikbern.com/2020/01/13/how-to-hire-smarter-than-the-market-a-toy-model.html)
+- [Interviewing is a noisy prediction problem](https://erikbern.com/2018/05/02/interviewing-is-a-noisy-prediction-problem.html)
 
 ### Interviewing
 - [How to Make Your Data Science Job Application Stand Out](https://www.dataquest.io/blog/how-to-data-science-job-application-stand-out/)
