@@ -76,9 +76,9 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [How Instacart delivers on time (using quantile regression)](https://tech.instacart.com/how-instacart-delivers-on-time-using-quantile-regression-2383e2e03edb)
 
 ## Deep Learning
-- [Interpreting loss curves](https://developers.google.com/machine-learning/testing-debugging/metrics/interpretic)
 - [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)
 - [Numerically stable and computationally efficient log-sum-exp](http://www.nowozin.net/sebastian/blog/streaming-log-sum-exp-computation.html)
+- [Interpreting loss curves](https://developers.google.com/machine-learning/testing-debugging/metrics/interpretic)
 
 ## Analytics
 - [Practical advice for analysis of large, complex data sets](http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html)
