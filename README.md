@@ -18,6 +18,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
   * [Recommendations](#recommendations)
   * [Bandits](#bandits)
   * [Regression](#regression)
+- [Deep Learning](#deep-learning)
 - [Analytics](#analytics)
 - [Career](#career)
   * [Hiring](#hiring)
@@ -73,6 +74,11 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 ### Regression
 - [OLS Regression Explained Visually](http://setosa.io/ev/ordinary-least-squares-regression/)
 - [How Instacart delivers on time (using quantile regression)](https://tech.instacart.com/how-instacart-delivers-on-time-using-quantile-regression-2383e2e03edb)
+
+## Deep Learning
+- [Interpreting loss curves](https://developers.google.com/machine-learning/testing-debugging/metrics/interpretic)
+- [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)
+- [Numerically stable and computationally efficient log-sum-exp](http://www.nowozin.net/sebastian/blog/streaming-log-sum-exp-computation.html)
 
 ## Analytics
 - [Practical advice for analysis of large, complex data sets](http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html)
