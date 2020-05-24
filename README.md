@@ -61,6 +61,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 ### Inference
 
 - [Common statistical tests are linear models](https://lindeloev.github.io/tests-as-linear/)
+- [Bayesian Optimization](https://distill.pub/2020/bayesian-optimization/)
 
 ### Forecasting
 
