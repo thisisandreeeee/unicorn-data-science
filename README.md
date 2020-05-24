@@ -37,6 +37,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [Rules of Machine Learning: Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml/)
 - [Engineers Shouldn’t Write ETL: A Guide to Building a High Functioning Data Science Department](https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/)
 - [Machine Learning: The High-Interest Credit Card of Technical Debt](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43146.pdf)
+  - [Follow-up post on ML technical debt](https://matthewmcateer.me/blog/machine-learning-technical-debt/)
 - [Production-Level-Deep-Learning](https://github.com/alirezadir/Production-Level-Deep-Learning)
 - [End-to-end Machine Learning with TFX on TensorFlow 2.x](https://towardsdatascience.com/end-to-end-machine-learning-with-tfx-on-tensorflow-2-x-6eda2fb5fe37)
 - [Monitoring Machine Learning Models in Production](https://christophergs.com/machine%20learning/2020/03/14/how-to-monitor-machine-learning-models/)
