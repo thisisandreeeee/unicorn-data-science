@@ -97,6 +97,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [Practical advice for analysis of large, complex data sets](http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html)
 - [The hacker's guide to uncertainty estimates](https://erikbern.com/2018/10/08/the-hackers-guide-to-uncertainty-estimates.html)
 - [What is an analytics engineer?](https://blog.getdbt.com/what-is-an-analytics-engineer/)
+- [The Modern Data Stack](https://blog.getdbt.com/future-of-the-modern-data-stack)
 
 ## Career
 
