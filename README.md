@@ -99,6 +99,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [The hacker's guide to uncertainty estimates](https://erikbern.com/2018/10/08/the-hackers-guide-to-uncertainty-estimates.html)
 - [What is an analytics engineer?](https://blog.getdbt.com/what-is-an-analytics-engineer/)
 - [The Modern Data Stack](https://blog.getdbt.com/future-of-the-modern-data-stack)
+- [Emerging architectures for modern data infrastructure](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/)
 
 ## Career
 
