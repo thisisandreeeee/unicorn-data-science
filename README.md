@@ -109,6 +109,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [How Coursera Competes Against Google and Facebook for the Best Talent](https://firstround.com/review/this-is-how-coursera-competes-against-google-and-facebook-for-the-best-talent/)
 - [How to hire smarter than the market: a toy model](https://erikbern.com/2020/01/13/how-to-hire-smarter-than-the-market-a-toy-model.html)
 - [Interviewing is a noisy prediction problem](https://erikbern.com/2018/05/02/interviewing-is-a-noisy-prediction-problem.html)
+- [How to set compensation using commensense principles](https://erikbern.com/2020/06/08/how-to-set-compensation-using-commonsense-principles.html)
 
 ### Interviewing
 
