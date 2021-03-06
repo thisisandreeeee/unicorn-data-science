@@ -5,7 +5,9 @@
 * New entries will be formatted with an automatically generated table of contents. See [setup instructions](#setup-instructions).
 
 ## Setup instructions
-We use [pre-commit hooks](https://pre-commit.com/) to automatically insert table of contents to markdown files. To get started:
+
+Table of contents are automatically inserted using [pre-commit hooks](https://pre-commit.com/). To get started:
+
 ```
 pip install pre-commit==1.21.0
 pre-commit install
@@ -13,4 +15,5 @@ pre-commit run --all-files
 ```
 
 ## Attribution
-This set of contributing guidelines is adapted from [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted).
+
+These contributing guidelines are adapted from [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted).
