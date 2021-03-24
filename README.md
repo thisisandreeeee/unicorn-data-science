@@ -125,6 +125,10 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [How to find consulting clients](https://chrisachard.com/how-to-find-consulting-clients)
 - [Doing Freelance Data Science Consulting in 2019](https://www.ethanrosenthal.com/2020/01/08/freelance-ds-consulting/)
 
+### Management
+
+- [Hashicorp manager charter](https://works.hashicorp.com/articles/manager-charter)
+
 ## Business
 
 - [10 Reads for Data Scientists Getting Started with Business Models](https://www.conordewey.com/blog/10-reads-for-data-scientists-getting-started-with-business-models/)
