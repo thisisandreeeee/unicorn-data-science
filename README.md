@@ -41,6 +41,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [Production-Level-Deep-Learning](https://github.com/alirezadir/Production-Level-Deep-Learning)
 - [End-to-end Machine Learning with TFX on TensorFlow 2.x](https://towardsdatascience.com/end-to-end-machine-learning-with-tfx-on-tensorflow-2-x-6eda2fb5fe37)
 - [Monitoring Machine Learning Models in Production](https://christophergs.com/machine%20learning/2020/03/14/how-to-monitor-machine-learning-models/)
+- [ML engineering best practices](https://se-ml.github.io/practices/)
 
 ### Experimentation
 
