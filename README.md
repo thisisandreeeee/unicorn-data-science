@@ -130,6 +130,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 ### Management
 
 - [Hashicorp manager charter](https://works.hashicorp.com/articles/manager-charter)
+- [Good DS vs. Bad DS](https://ianwhitestone.work/good-ds-bad-ds)
 
 ## Business
 
