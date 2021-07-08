@@ -59,6 +59,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [William Chen probability cheat sheet](https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf)
 - [KDE visualisation](https://mathisonian.github.io/kde/)
 - [Modeling conversion rates and saving millions of dollars using Kaplan-Meier and gamma distributions](https://better.engineering/2019/07/29/modeling-conversion-rates-and-saving-millions-of-dollars-using-kaplan-meier-and-gamma-distributions/)
+- [Robust Statistical Distances for Machine Learning](https://www.datadoghq.com/blog/engineering/robust-statistical-distances-for-machine-learning/)
 
 ### Inference
 
