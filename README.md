@@ -20,6 +20,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
   * [Regression](#regression)
 - [Deep Learning](#deep-learning)
 - [Analytics](#analytics)
+- [Governance](#governance)
 - [Career](#career)
   * [Hiring](#hiring)
   * [Interviewing](#interviewing)
@@ -104,7 +105,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [The Modern Data Stack](https://blog.getdbt.com/future-of-the-modern-data-stack)
 - [Emerging architectures for modern data infrastructure](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/)
 
-## Data Governance
+## Governance
 
 - [DataHub: Popular metadata architectures explained](https://engineering.linkedin.com/blog/2020/datahub-popular-metadata-architectures-explained)
 
