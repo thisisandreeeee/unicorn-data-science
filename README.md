@@ -109,6 +109,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 
 - [DataHub: Popular metadata architectures explained](https://engineering.linkedin.com/blog/2020/datahub-popular-metadata-architectures-explained)
 - [Biases in AI Systems](https://queue.acm.org/detail.cfm?id=3466134)
+- [How to Move Beyond a Monolithic Data Lake to a Distributed Data Mesh](https://martinfowler.com/articles/data-monolith-to-mesh.html)
 
 ## Career
 
