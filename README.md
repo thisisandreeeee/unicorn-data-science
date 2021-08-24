@@ -66,6 +66,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 
 - [Common statistical tests are linear models](https://lindeloev.github.io/tests-as-linear/)
 - [Bayesian Optimization](https://distill.pub/2020/bayesian-optimization/)
+- [On Average, You’re Using the Wrong Average: Geometric & Harmonic Means in Data Analysis](https://towardsdatascience.com/on-average-youre-using-the-wrong-average-geometric-harmonic-means-in-data-analysis-2a703e21ea0)
 
 ### Forecasting
 
