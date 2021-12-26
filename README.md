@@ -44,6 +44,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [Monitoring Machine Learning Models in Production](https://christophergs.com/machine%20learning/2020/03/14/how-to-monitor-machine-learning-models/)
 - [ML engineering best practices](https://se-ml.github.io/practices/)
 - [Google MLOps whitepaper](https://services.google.com/fh/files/misc/practitioners_guide_to_mlops_whitepaper.pdf)
+- [Ways I Use Testing as a Data Scientist](https://www.peterbaumgartner.com/blog/testing-for-data-science/)
 
 ### Experimentation
 
