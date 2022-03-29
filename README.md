@@ -45,6 +45,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [ML engineering best practices](https://se-ml.github.io/practices/)
 - [Google MLOps whitepaper](https://services.google.com/fh/files/misc/practitioners_guide_to_mlops_whitepaper.pdf)
 - [Ways I Use Testing as a Data Scientist](https://www.peterbaumgartner.com/blog/testing-for-data-science/)
+- [MLOps Principles](https://ml-ops.org/content/mlops-principles)
 
 ### Experimentation
 
@@ -106,6 +107,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [What is an analytics engineer?](https://blog.getdbt.com/what-is-an-analytics-engineer/)
 - [The Modern Data Stack](https://blog.getdbt.com/future-of-the-modern-data-stack)
 - [Emerging architectures for modern data infrastructure](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/)
+- [Stop aggregating away the signal in your data](https://stackoverflow.blog/2022/03/03/stop-aggregating-away-the-signal-in-your-data/)
 
 ## Governance
 
