@@ -83,10 +83,11 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [Deep Neural Networks for YouTube Recommendations](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf)
 - [Deep density networks and uncertainty in recommender systems](https://arxiv.org/pdf/1711.02487.pdf)
 
-### Bandits
+### Causal Inference
 
 - [Bandit Algorithms](https://banditalgs.com/)
 - [A Contextual-Bandit Approach to Personalized News Article Recommendation](https://arxiv.org/pdf/1003.0146.pdf)
+- [Python Causality Handbook](https://matheusfacure.github.io/python-causality-handbook/)
 
 ### Regression
 
@@ -143,6 +144,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 
 - [Hashicorp manager charter](https://works.hashicorp.com/articles/manager-charter)
 - [Good DS vs. Bad DS](https://ianwhitestone.work/good-ds-bad-ds)
+- [Open decision making](https://web.stanford.edu/~ouster/cgi-bin/decisions.php)
 
 ## Business
 
