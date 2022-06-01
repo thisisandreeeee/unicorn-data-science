@@ -108,8 +108,9 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [The hacker's guide to uncertainty estimates](https://erikbern.com/2018/10/08/the-hackers-guide-to-uncertainty-estimates.html)
 - [What is an analytics engineer?](https://blog.getdbt.com/what-is-an-analytics-engineer/)
 - [The Modern Data Stack](https://blog.getdbt.com/future-of-the-modern-data-stack)
-- [Emerging architectures for modern data infrastructure](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/)
+- [Emerging architectures for modern data infrastructure](https://future.a16z.com/emerging-architectures-modern-data-infrastructure/)
 - [Stop aggregating away the signal in your data](https://stackoverflow.blog/2022/03/03/stop-aggregating-away-the-signal-in-your-data/)
+- [Highly Opinionated Integrations](https://davidsj.substack.com/p/highly-opinionated-integrations)
 
 ## Governance
 
