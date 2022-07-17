@@ -70,13 +70,9 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [Common statistical tests are linear models](https://lindeloev.github.io/tests-as-linear/)
 - [Bayesian Optimization](https://distill.pub/2020/bayesian-optimization/)
 - [On Average, You’re Using the Wrong Average: Geometric & Harmonic Means in Data Analysis](https://towardsdatascience.com/on-average-youre-using-the-wrong-average-geometric-harmonic-means-in-data-analysis-2a703e21ea0)
+- [Stop aggregating away the signal in your data](https://stackoverflow.blog/2022/03/03/stop-aggregating-away-the-signal-in-your-data/)
 
-### Forecasting
-
-- [Our quest for robust time series forecasting at scale](http://www.unofficialgoogledatascience.com/2017/04/our-quest-for-robust-time-series.html)
-- [Sorry ARIMA, but I’m Going Bayesian](https://multithreaded.stitchfix.com/blog/2016/04/21/forget-arima/)
-
-## Machine Learning
+## Data Science
 
 ### Recommendations
 
@@ -95,7 +91,12 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [OLS Regression Explained Visually](http://setosa.io/ev/ordinary-least-squares-regression/)
 - [How Instacart delivers on time (using quantile regression)](https://tech.instacart.com/how-instacart-delivers-on-time-using-quantile-regression-2383e2e03edb)
 
-## Deep Learning
+### Forecasting
+
+- [Our quest for robust time series forecasting at scale](http://www.unofficialgoogledatascience.com/2017/04/our-quest-for-robust-time-series.html)
+- [Sorry ARIMA, but I’m Going Bayesian](https://multithreaded.stitchfix.com/blog/2016/04/21/forget-arima/)
+
+### Deep Learning
 
 - [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)
 - [Numerically stable and computationally efficient log-sum-exp](http://www.nowozin.net/sebastian/blog/streaming-log-sum-exp-computation.html)
@@ -104,21 +105,29 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 
 ## Analytics
 
+### Analytics Engineering
+
 - [Practical advice for analysis of large, complex data sets](http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html)
 - [The hacker's guide to uncertainty estimates](https://erikbern.com/2018/10/08/the-hackers-guide-to-uncertainty-estimates.html)
 - [What is an analytics engineer?](https://blog.getdbt.com/what-is-an-analytics-engineer/)
 - [The Modern Data Stack](https://blog.getdbt.com/future-of-the-modern-data-stack)
 - [Emerging architectures for modern data infrastructure](https://future.a16z.com/emerging-architectures-modern-data-infrastructure/)
-- [Stop aggregating away the signal in your data](https://stackoverflow.blog/2022/03/03/stop-aggregating-away-the-signal-in-your-data/)
 - [Highly Opinionated Integrations](https://davidsj.substack.com/p/highly-opinionated-integrations)
 
-## Governance
+### Data Governance
 
 - [DataHub: Popular metadata architectures explained](https://engineering.linkedin.com/blog/2020/datahub-popular-metadata-architectures-explained)
 - [Biases in AI Systems](https://queue.acm.org/detail.cfm?id=3466134)
 - [How to Move Beyond a Monolithic Data Lake to a Distributed Data Mesh](https://martinfowler.com/articles/data-monolith-to-mesh.html)
 
-## Career
+## Teams
+
+### Management
+
+- [Hashicorp manager charter](https://works.hashicorp.com/articles/manager-charter)
+- [Good DS vs. Bad DS](https://ianwhitestone.work/good-ds-bad-ds)
+- [Open decision making](https://web.stanford.edu/~ouster/cgi-bin/decisions.php)
+- [North star metrics](https://future.com/north-star-metrics/)
 
 ### Hiring
 
@@ -138,18 +147,9 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [6 red flags I saw while doing 60+ technical interviews in 30 days](http://blog.interviewing.io/6-red-flags-i-saw-while-doing-60-technical-interviews-in-30-days)
 - [Google interview warmup](https://grow.google/certificates/interview-warmup/)
 
-### Consulting
-
-- [How to find consulting clients](https://chrisachard.com/how-to-find-consulting-clients)
-- [Doing Freelance Data Science Consulting in 2019](https://www.ethanrosenthal.com/2020/01/08/freelance-ds-consulting/)
-
-### Management
-
-- [Hashicorp manager charter](https://works.hashicorp.com/articles/manager-charter)
-- [Good DS vs. Bad DS](https://ianwhitestone.work/good-ds-bad-ds)
-- [Open decision making](https://web.stanford.edu/~ouster/cgi-bin/decisions.php)
-
-## Business
+## Consulting
 
 - [10 Reads for Data Scientists Getting Started with Business Models](https://www.conordewey.com/blog/10-reads-for-data-scientists-getting-started-with-business-models/)
 - [Smart companies try to commoditize their products’ complements](https://www.joelonsoftware.com/2002/06/12/strategy-letter-v/)
+- [How to find consulting clients](https://chrisachard.com/how-to-find-consulting-clients)
+- [Doing Freelance Data Science Consulting in 2019](https://www.ethanrosenthal.com/2020/01/08/freelance-ds-consulting/)
