@@ -13,7 +13,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [Statistics](#statistics)
   * [Distributions](#distributions)
   * [Inference](#inference)
-- [Machine Learning](#machine-learning)
+- [Data Science](#data-science)
   * [Recommendations](#recommendations)
   * [Causal Inference](#causal-inference)
   * [Regression](#regression)
