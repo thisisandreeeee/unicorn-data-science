@@ -8,24 +8,25 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 <!-- toc -->
 
 - [Engineering](#engineering)
-  * [ML engineering](#ml-engineering)
+  * [ML Engineering](#ml-engineering)
   * [Experimentation](#experimentation)
 - [Statistics](#statistics)
   * [Distributions](#distributions)
   * [Inference](#inference)
-  * [Forecasting](#forecasting)
 - [Machine Learning](#machine-learning)
   * [Recommendations](#recommendations)
-  * [Bandits](#bandits)
+  * [Causal Inference](#causal-inference)
   * [Regression](#regression)
-- [Deep Learning](#deep-learning)
+  * [Forecasting](#forecasting)
+  * [Deep Learning](#deep-learning)
 - [Analytics](#analytics)
-- [Governance](#governance)
-- [Career](#career)
+  * [Analytics Engineering](#analytics-engineering)
+  * [Data Governance](#data-governance)
+- [Teams](#teams)
+  * [Management](#management)
   * [Hiring](#hiring)
   * [Interviewing](#interviewing)
-  * [Consulting](#consulting)
-- [Business](#business)
+- [Consulting](#consulting)
 
 <!-- tocstop -->
 
@@ -33,7 +34,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 
 ## Engineering
 
-### ML engineering
+### ML Engineering
 
 - [Rules of Machine Learning: Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml/)
 - [Engineers Shouldn’t Write ETL: A Guide to Building a High Functioning Data Science Department](https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/)
@@ -128,6 +129,8 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [Good DS vs. Bad DS](https://ianwhitestone.work/good-ds-bad-ds)
 - [Open decision making](https://web.stanford.edu/~ouster/cgi-bin/decisions.php)
 - [North star metrics](https://future.com/north-star-metrics/)
+- [Agile analytics](https://locallyoptimistic.com/post/agile-analytics-p1/)
+- [Modern data culture stack](https://humansofdata.atlan.com/2021/12/modern-data-culture-stack/)
 
 ### Hiring
 
@@ -136,6 +139,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [How to hire smarter than the market: a toy model](https://erikbern.com/2020/01/13/how-to-hire-smarter-than-the-market-a-toy-model.html)
 - [Interviewing is a noisy prediction problem](https://erikbern.com/2018/05/02/interviewing-is-a-noisy-prediction-problem.html)
 - [How to set compensation using commensense principles](https://erikbern.com/2020/06/08/how-to-set-compensation-using-commonsense-principles.html)
+- [VP of Engineering hiring cheatsheet](https://notion.notion.site/VP-of-Engineering-hiring-cheatsheet-f7824eb3f60748bb997f9b9b14c073a5)
 
 ### Interviewing
 
