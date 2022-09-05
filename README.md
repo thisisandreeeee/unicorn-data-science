@@ -150,6 +150,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [You’re probably answering these 5 common interview questions wrong](https://www.holistics.io/blog/judge-your-company-using-three-levels-data-analysis-data-career-decision-making/)
 - [6 red flags I saw while doing 60+ technical interviews in 30 days](http://blog.interviewing.io/6-red-flags-i-saw-while-doing-60-technical-interviews-in-30-days)
 - [Google interview warmup](https://grow.google/certificates/interview-warmup/)
+- [Red Flags to Look Out for When Joining a Data Team](https://eugeneyan.com/writing/red-flags/)
 
 ## Consulting
 
