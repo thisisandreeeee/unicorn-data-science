@@ -72,6 +72,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [Bayesian Optimization](https://distill.pub/2020/bayesian-optimization/)
 - [On Average, You’re Using the Wrong Average: Geometric & Harmonic Means in Data Analysis](https://towardsdatascience.com/on-average-youre-using-the-wrong-average-geometric-harmonic-means-in-data-analysis-2a703e21ea0)
 - [Stop aggregating away the signal in your data](https://stackoverflow.blog/2022/03/03/stop-aggregating-away-the-signal-in-your-data/)
+- [Inferring Concept Drift Without Labeled Data](https://concept-drift.fastforwardlabs.com/)
 
 ## Data Science
 
