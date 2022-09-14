@@ -36,7 +36,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 
 ### ML Engineering
 
-- [Rules of Machine Learning: Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml/)
+- [Rules of ML](https://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 - [Engineers Shouldn’t Write ETL: A Guide to Building a High Functioning Data Science Department](https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/)
 - [Machine Learning: The High-Interest Credit Card of Technical Debt](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43146.pdf)
   - [Follow-up post on ML technical debt](https://matthewmcateer.me/blog/machine-learning-technical-debt/)
