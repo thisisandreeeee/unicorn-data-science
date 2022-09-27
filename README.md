@@ -105,6 +105,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [Numerically stable and computationally efficient log-sum-exp](http://www.nowozin.net/sebastian/blog/streaming-log-sum-exp-computation.html)
 - [Interpreting loss curves](https://developers.google.com/machine-learning/testing-debugging/metrics/interpretic)
 - [Visualizing the Loss Landscape of a Neural Network](https://mathformachines.com/posts/visualizing-the-loss-landscape/)
+- [AI Content Generation Tools](https://airtable.com/shrDxAxCCxAZVtMnt/tbl3FzgFjvvuYZMm9)
 
 ## Analytics
 
