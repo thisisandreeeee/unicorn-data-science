@@ -74,6 +74,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [On Average, You’re Using the Wrong Average: Geometric & Harmonic Means in Data Analysis](https://towardsdatascience.com/on-average-youre-using-the-wrong-average-geometric-harmonic-means-in-data-analysis-2a703e21ea0)
 - [Stop aggregating away the signal in your data](https://stackoverflow.blog/2022/03/03/stop-aggregating-away-the-signal-in-your-data/)
 - [Inferring Concept Drift Without Labeled Data](https://concept-drift.fastforwardlabs.com/)
+- [The hacker's guide to uncertainty estimates](https://erikbern.com/2018/10/08/the-hackers-guide-to-uncertainty-estimates.html)
 
 ## Data Science
 
@@ -112,17 +113,19 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 ### Analytics Engineering
 
 - [Practical advice for analysis of large, complex data sets](http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html)
-- [The hacker's guide to uncertainty estimates](https://erikbern.com/2018/10/08/the-hackers-guide-to-uncertainty-estimates.html)
 - [What is an analytics engineer?](https://blog.getdbt.com/what-is-an-analytics-engineer/)
 - [The Modern Data Stack](https://blog.getdbt.com/future-of-the-modern-data-stack)
 - [Emerging architectures for modern data infrastructure](https://future.a16z.com/emerging-architectures-modern-data-infrastructure/)
 - [Highly Opinionated Integrations](https://davidsj.substack.com/p/highly-opinionated-integrations)
+- [Choosing a Product Analytics Tool](https://sarahsnewsletter.substack.com/p/choosing-a-product-analytics-tool)
+- [2022 ETL Buyer’s Guide: How to Pick the Right Tool for Your Analytics Stack](https://mode.com/blog/etl-buyers-guide)
 
 ### Data Governance
 
 - [DataHub: Popular metadata architectures explained](https://engineering.linkedin.com/blog/2020/datahub-popular-metadata-architectures-explained)
 - [Biases in AI Systems](https://queue.acm.org/detail.cfm?id=3466134)
 - [How to Move Beyond a Monolithic Data Lake to a Distributed Data Mesh](https://martinfowler.com/articles/data-monolith-to-mesh.html)
+- [Apple's Human Interface Guidelines for Charts](https://developer.apple.com/design/human-interface-guidelines/components/content/charts)
 
 ## Teams
 
@@ -134,6 +137,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [North star metrics](https://future.com/north-star-metrics/)
 - [Agile analytics](https://locallyoptimistic.com/post/agile-analytics-p1/)
 - [Modern data culture stack](https://humansofdata.atlan.com/2021/12/modern-data-culture-stack/)
+- [So You Want to Become a Data Science Manager?](https://medium.com/deliberate-data-science/so-you-want-become-a-data-science-manager-4ff9544e6827)
 
 ### Hiring
 
