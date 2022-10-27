@@ -119,6 +119,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [Highly Opinionated Integrations](https://davidsj.substack.com/p/highly-opinionated-integrations)
 - [Choosing a Product Analytics Tool](https://sarahsnewsletter.substack.com/p/choosing-a-product-analytics-tool)
 - [2022 ETL Buyer’s Guide: How to Pick the Right Tool for Your Analytics Stack](https://mode.com/blog/etl-buyers-guide)
+- [Modern Data Stack in a Box with DuckDB](https://duckdb.org/2022/10/12/modern-data-stack-in-a-box.html)
 
 ### Data Governance
 
