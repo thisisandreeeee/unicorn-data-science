@@ -150,6 +150,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 
 ### Interviewing
 
+- [The Data Science Interview Book](https://dipranjan.github.io/dsinterviewqns/intro.html)
 - [Conor Dewey's list of data science interview resources](https://www.conordewey.com/blog/the-big-list-of-data-science-interview-resources/)
 - [101 Data Science Interview Questions, Answers, and Key Concepts](https://blog.datasciencedojo.com/data-science-interview-questions/)
 - [How I negotiated a $300,000 job offer in Silicon Valley](https://medium.com/@bayareabelletrist/how-i-negotiated-a-software-engineer-offer-in-silicon-valley-f11590f5c656)
