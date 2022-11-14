@@ -56,6 +56,12 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [Switchback Tests and Randomized Experimentation Under Network Effects at DoorDash](https://medium.com/@DoorDash/switchback-tests-and-randomized-experimentation-under-network-effects-at-doordash-f1d938ab7c2a)
 - [Innovating Faster on Personalization Algorithms at Netflix Using Interleaving](https://netflixtechblog.com/interleaving-in-online-experiments-at-netflix-a04ee392ec55)
 
+### Software Engineering
+
+- [Python Design Patterns](https://python-patterns.guide/)
+- [Awesome Prometheus Alerts](https://awesome-prometheus-alerts.grep.to/)
+- [Refactoring Guru](https://refactoring.guru/design-patterns)
+
 ## Statistics
 
 ### Distributions
