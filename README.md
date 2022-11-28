@@ -89,6 +89,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [Google Recommendation Systems Crash Course](https://developers.google.com/machine-learning/recommendation)
 - [Deep Neural Networks for YouTube Recommendations](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf)
 - [Deep density networks and uncertainty in recommender systems](https://arxiv.org/pdf/1711.02487.pdf)
+- [Microsoft Recommenders](https://github.com/microsoft/recommenders)
 
 ### Causal Inference
 
