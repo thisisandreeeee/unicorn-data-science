@@ -48,7 +48,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [Ways I Use Testing as a Data Scientist](https://www.peterbaumgartner.com/blog/testing-for-data-science/)
 - [MLOps Principles](https://ml-ops.org/content/mlops-principles)
 - [Continuous delivery and automation pipelines in machine learning](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
-- [Refactoring Guru Design Patterns](https://refactoring.guru/design-patterns)
+- [No, you don't need MLOps](https://lakshmanok.medium.com/no-you-dont-need-mlops-5e1ce9fdaa4b)
 
 ### Experimentation
 
