@@ -128,6 +128,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [2022 ETL Buyer’s Guide: How to Pick the Right Tool for Your Analytics Stack](https://mode.com/blog/etl-buyers-guide)
 - [Modern Data Stack in a Box with DuckDB](https://duckdb.org/2022/10/12/modern-data-stack-in-a-box.html)
 - [Coding for Economists](https://aeturrell.github.io/coding-for-economists/)
+- [Simple ML for Sheets](https://simplemlforsheets.com/index.html)
 
 ### Data Governance
 
