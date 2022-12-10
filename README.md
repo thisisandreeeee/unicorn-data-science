@@ -149,6 +149,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [Modern data culture stack](https://humansofdata.atlan.com/2021/12/modern-data-culture-stack/)
 - [So You Want to Become a Data Science Manager?](https://medium.com/deliberate-data-science/so-you-want-become-a-data-science-manager-4ff9544e6827)
 - [Mochary Method Curriculum](https://docs.google.com/document/d/18FiJbYn53fTtPmphfdCKT2TMWH-8Y2L-MLqDk-MFV4s/preview?pru=AAABhJk6izM*8NM-ASg_-AehSTTdRjwR3w)
+- [Gitlab Data Team Handbook](https://about.gitlab.com/handbook/business-technology/data-team/)
 
 ### Hiring
 
