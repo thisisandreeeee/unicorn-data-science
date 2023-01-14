@@ -131,6 +131,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [Modern Data Stack in a Box with DuckDB](https://duckdb.org/2022/10/12/modern-data-stack-in-a-box.html)
 - [Coding for Economists](https://aeturrell.github.io/coding-for-economists/)
 - [Simple ML for Sheets](https://simplemlforsheets.com/index.html)
+- [Data Pipeline Design Patterns](https://www.startdataengineering.com/post/design-patterns/)
 
 ### Data Governance
 
