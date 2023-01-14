@@ -84,6 +84,8 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 
 ## Data Science
 
+- [The Illustrated Machine Learning website](https://illustrated-machine-learning.github.io/)
+
 ### Recommendations
 
 - [Google Recommendation Systems Crash Course](https://developers.google.com/machine-learning/recommendation)
