@@ -118,6 +118,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [Interpreting loss curves](https://developers.google.com/machine-learning/testing-debugging/metrics/interpretic)
 - [Visualizing the Loss Landscape of a Neural Network](https://mathformachines.com/posts/visualizing-the-loss-landscape/)
 - [AI Content Generation Tools](https://airtable.com/shrDxAxCCxAZVtMnt/tbl3FzgFjvvuYZMm9)
+- [Google research tuning playbook](https://github.com/google-research/tuning_playbook)
 
 ## Analytics
 
