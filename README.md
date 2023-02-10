@@ -10,6 +10,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [Engineering](#engineering)
   * [ML Engineering](#ml-engineering)
   * [Experimentation](#experimentation)
+  * [Software Engineering](#software-engineering)
 - [Statistics](#statistics)
   * [Distributions](#distributions)
   * [Inference](#inference)
@@ -61,6 +62,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [Python Design Patterns](https://python-patterns.guide/)
 - [Awesome Prometheus Alerts](https://awesome-prometheus-alerts.grep.to/)
 - [Refactoring Guru](https://refactoring.guru/design-patterns)
+- [Choose boring technology](https://boringtechnology.club/)
 
 ## Statistics
 
