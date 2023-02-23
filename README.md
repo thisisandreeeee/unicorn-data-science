@@ -157,6 +157,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [Mochary Method Curriculum](https://docs.google.com/document/d/18FiJbYn53fTtPmphfdCKT2TMWH-8Y2L-MLqDk-MFV4s/preview?pru=AAABhJk6izM*8NM-ASg_-AehSTTdRjwR3w)
 - [Gitlab Data Team Handbook](https://about.gitlab.com/handbook/business-technology/data-team/)
 - [The Great CEO Within](https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/edit)
+- [Coordination Headwind](https://komoroske.com/slime-mold/)
 
 ### Hiring
 
