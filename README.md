@@ -158,6 +158,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [Gitlab Data Team Handbook](https://about.gitlab.com/handbook/business-technology/data-team/)
 - [The Great CEO Within](https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/edit)
 - [Coordination Headwind](https://komoroske.com/slime-mold/)
+- [The Art of Onboarding](https://locallyoptimistic.com/post/the-art-of-onboarding/)
 
 ### Hiring
 
