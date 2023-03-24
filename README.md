@@ -122,6 +122,8 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 
 ## Analytics
 
+- [Data Analytics Design Patterns](https://cloud.google.com/architecture/reference-patterns/overview)
+
 ### Analytics Engineering
 
 - [Practical advice for analysis of large, complex data sets](http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html)
