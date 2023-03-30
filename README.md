@@ -63,6 +63,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [Awesome Prometheus Alerts](https://awesome-prometheus-alerts.grep.to/)
 - [Refactoring Guru](https://refactoring.guru/design-patterns)
 - [Choose boring technology](https://boringtechnology.club/)
+- [The Beginner's Guide to Databases](https://technically.substack.com/p/the-beginners-guide-to-databases)
 
 ## Statistics
 
