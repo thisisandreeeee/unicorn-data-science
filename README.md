@@ -138,6 +138,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [Coding for Economists](https://aeturrell.github.io/coding-for-economists/)
 - [Simple ML for Sheets](https://simplemlforsheets.com/index.html)
 - [Data Pipeline Design Patterns](https://www.startdataengineering.com/post/design-patterns/)
+- [Building a Kimball dimensional model with dbt](https://docs.getdbt.com/blog/kimball-dimensional-model)
 
 ### Data Governance
 
