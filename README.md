@@ -64,6 +64,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [Refactoring Guru](https://refactoring.guru/design-patterns)
 - [Choose boring technology](https://boringtechnology.club/)
 - [The Beginner's Guide to Databases](https://technically.substack.com/p/the-beginners-guide-to-databases)
+- [System Design 101](https://github.com/ByteByteGoHq/system-design-101)
 
 ## Statistics
 
