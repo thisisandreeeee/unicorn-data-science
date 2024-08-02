@@ -65,6 +65,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [Choose boring technology](https://boringtechnology.club/)
 - [The Beginner's Guide to Databases](https://technically.substack.com/p/the-beginners-guide-to-databases)
 - [System Design 101](https://github.com/ByteByteGoHq/system-design-101)
+- [How to do a code review](https://google.github.io/eng-practices/review/reviewer/)
 
 ## Statistics
 
