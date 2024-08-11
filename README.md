@@ -20,6 +20,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
   * [Regression](#regression)
   * [Forecasting](#forecasting)
   * [Deep Learning](#deep-learning)
+- [Large Language Models](#large-language-models)
 - [Analytics](#analytics)
   * [Analytics Engineering](#analytics-engineering)
   * [Data Governance](#data-governance)
@@ -90,6 +91,8 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 ## Data Science
 
 - [The Illustrated Machine Learning website](https://illustrated-machine-learning.github.io/)
+- [Feature Engineering A-Z](https://feaz-book.com/)
+- [Applied Machine Learning for Tabular Data](https://aml4td.org/)
 
 ### Recommendations
 
@@ -123,6 +126,14 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [Visualizing the Loss Landscape of a Neural Network](https://mathformachines.com/posts/visualizing-the-loss-landscape/)
 - [AI Content Generation Tools](https://airtable.com/shrDxAxCCxAZVtMnt/tbl3FzgFjvvuYZMm9)
 - [Google research tuning playbook](https://github.com/google-research/tuning_playbook)
+
+## Large Language Models
+
+- [Building a Generative AI Platform](https://huyenchip.com/2024/07/25/genai-platform.html)
+- [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
+- [Understanding Large Language Models](https://magazine.sebastianraschka.com/p/understanding-large-language-models)
+- [Prompt Engineering Guide](https://www.promptingguide.ai/)
+- [Emerging Architectures for LLM Applications](https://a16z.com/emerging-architectures-for-llm-applications/)
 
 ## Analytics
 
