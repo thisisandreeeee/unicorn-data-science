@@ -134,6 +134,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [Understanding Large Language Models](https://magazine.sebastianraschka.com/p/understanding-large-language-models)
 - [Prompt Engineering Guide](https://www.promptingguide.ai/)
 - [Emerging Architectures for LLM Applications](https://a16z.com/emerging-architectures-for-llm-applications/)
+- [LLM101n - Andrej Kaparthy](https://github.com/karpathy/LLM101n)
 
 ## Analytics
 
