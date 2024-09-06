@@ -24,6 +24,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [Analytics](#analytics)
   * [Analytics Engineering](#analytics-engineering)
   * [Data Governance](#data-governance)
+  * [Dashboards](#dashboards)
 - [Teams](#teams)
   * [Management](#management)
   * [Hiring](#hiring)
@@ -159,7 +160,11 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [DataHub: Popular metadata architectures explained](https://engineering.linkedin.com/blog/2020/datahub-popular-metadata-architectures-explained)
 - [Biases in AI Systems](https://queue.acm.org/detail.cfm?id=3466134)
 - [How to Move Beyond a Monolithic Data Lake to a Distributed Data Mesh](https://martinfowler.com/articles/data-monolith-to-mesh.html)
+
+ ### Dashboards
+ 
 - [Apple's Human Interface Guidelines for Charts](https://developer.apple.com/design/human-interface-guidelines/components/content/charts)
+- [Better dashboards align with the scales of business decisions](https://observablehq.com/blog/align-dashboards-with-scales-of-business-decisions)
 
 ## Teams
 
