@@ -136,6 +136,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [Prompt Engineering Guide](https://www.promptingguide.ai/)
 - [Emerging Architectures for LLM Applications](https://a16z.com/emerging-architectures-for-llm-applications/)
 - [LLM101n - Andrej Kaparthy](https://github.com/karpathy/LLM101n)
+- [A visual guide to quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)
 
 ## Analytics
 
