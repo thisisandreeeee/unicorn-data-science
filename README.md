@@ -127,6 +127,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [Visualizing the Loss Landscape of a Neural Network](https://mathformachines.com/posts/visualizing-the-loss-landscape/)
 - [AI Content Generation Tools](https://airtable.com/shrDxAxCCxAZVtMnt/tbl3FzgFjvvuYZMm9)
 - [Google research tuning playbook](https://github.com/google-research/tuning_playbook)
+- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 
 ## Large Language Models
 
@@ -136,7 +137,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [Prompt Engineering Guide](https://www.promptingguide.ai/)
 - [Emerging Architectures for LLM Applications](https://a16z.com/emerging-architectures-for-llm-applications/)
 - [LLM101n - Andrej Kaparthy](https://github.com/karpathy/LLM101n)
-- [A visual guide to quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)
+- [A Visual Guide to Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)
 
 ## Analytics
 
