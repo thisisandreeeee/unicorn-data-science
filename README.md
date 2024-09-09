@@ -128,6 +128,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [AI Content Generation Tools](https://airtable.com/shrDxAxCCxAZVtMnt/tbl3FzgFjvvuYZMm9)
 - [Google research tuning playbook](https://github.com/google-research/tuning_playbook)
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+- [Transformer Explainer](https://poloclub.github.io/transformer-explainer/)
 
 ## Large Language Models
 
