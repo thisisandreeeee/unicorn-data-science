@@ -94,6 +94,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [The Illustrated Machine Learning website](https://illustrated-machine-learning.github.io/)
 - [Feature Engineering A-Z](https://feaz-book.com/)
 - [Applied Machine Learning for Tabular Data](https://aml4td.org/)
+- [Interpretable ML Book](https://christophm.github.io/interpretable-ml-book/)
 
 ### Recommendations
 
