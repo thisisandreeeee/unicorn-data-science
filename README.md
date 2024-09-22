@@ -140,6 +140,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [Emerging Architectures for LLM Applications](https://a16z.com/emerging-architectures-for-llm-applications/)
 - [LLM101n - Andrej Kaparthy](https://github.com/karpathy/LLM101n)
 - [A Visual Guide to Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)
+- [Open source LLM tools](https://huyenchip.com/llama-police.html)
 
 ## Analytics
 
@@ -207,6 +208,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [6 red flags I saw while doing 60+ technical interviews in 30 days](http://blog.interviewing.io/6-red-flags-i-saw-while-doing-60-technical-interviews-in-30-days)
 - [Google interview warmup](https://grow.google/certificates/interview-warmup/)
 - [Red Flags to Look Out for When Joining a Data Team](https://eugeneyan.com/writing/red-flags/)
+- [Data Scientist Handbook](https://github.com/andresvourakis/data-scientist-handbook?tab=readme-ov-file)
 
 ## Consulting
 
