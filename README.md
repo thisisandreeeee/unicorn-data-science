@@ -141,6 +141,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [LLM101n - Andrej Kaparthy](https://github.com/karpathy/LLM101n)
 - [A Visual Guide to Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)
 - [Open source LLM tools](https://huyenchip.com/llama-police.html)
+- [Anthropic prompt engineering overview](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
 
 ## Analytics
 
