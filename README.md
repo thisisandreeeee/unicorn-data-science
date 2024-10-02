@@ -20,7 +20,10 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
   * [Regression](#regression)
   * [Forecasting](#forecasting)
   * [Deep Learning](#deep-learning)
-- [Large Language Models](#large-language-models)
+- [Generative AI](#generative-ai)
+  * [Large Language Models](#large-language-models)
+  * [Prompt Engineering](#prompt-engineering)
+  * [System Design](#system-design)
 - [Analytics](#analytics)
   * [Analytics Engineering](#analytics-engineering)
   * [Data Governance](#data-governance)
@@ -131,17 +134,28 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 - [Transformer Explainer](https://poloclub.github.io/transformer-explainer/)
 
-## Large Language Models
+## Generative AI
 
-- [Building a Generative AI Platform](https://huyenchip.com/2024/07/25/genai-platform.html)
-- [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
+### Large Language Models
+
 - [Understanding Large Language Models](https://magazine.sebastianraschka.com/p/understanding-large-language-models)
-- [Prompt Engineering Guide](https://www.promptingguide.ai/)
-- [Emerging Architectures for LLM Applications](https://a16z.com/emerging-architectures-for-llm-applications/)
 - [LLM101n - Andrej Kaparthy](https://github.com/karpathy/LLM101n)
 - [A Visual Guide to Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)
-- [Open source LLM tools](https://huyenchip.com/llama-police.html)
+
+### Prompt Engineering
+
+- [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
+- [Prompt Engineering Guide](https://www.promptingguide.ai/)
 - [Anthropic prompt engineering overview](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
+
+### LLM System Design
+
+- [Building a Generative AI Platform](https://huyenchip.com/2024/07/25/genai-platform.html)
+- [Emerging Architectures for LLM Applications](https://a16z.com/emerging-architectures-for-llm-applications/)
+- [Open source LLM tools](https://huyenchip.com/llama-police.html)
+- [rerankers](https://www.answer.ai/posts/2024-09-16-rerankers.html)
+- [ML and LLM system design: 450 case studies to learn from](https://www.evidentlyai.com/ml-system-design)
+- [Introducing Contextual Retrieval](https://www.anthropic.com/news/contextual-retrieval)
 
 ## Analytics
 
