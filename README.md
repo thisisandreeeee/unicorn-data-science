@@ -23,7 +23,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [Generative AI](#generative-ai)
   * [Large Language Models](#large-language-models)
   * [Prompt Engineering](#prompt-engineering)
-  * [System Design](#system-design)
+  * [LLM System Design](#llm-system-design)
 - [Analytics](#analytics)
   * [Analytics Engineering](#analytics-engineering)
   * [Data Governance](#data-governance)
