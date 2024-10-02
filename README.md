@@ -174,6 +174,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [Coding for Economists](https://aeturrell.github.io/coding-for-economists/)
 - [Simple ML for Sheets](https://simplemlforsheets.com/index.html)
 - [Data Pipeline Design Patterns](https://www.startdataengineering.com/post/design-patterns/)
+- [The Analytics Development Lifecycle](https://www.getdbt.com/resources/guides/the-analytics-development-lifecycle)
 
 ### Data Governance
 
