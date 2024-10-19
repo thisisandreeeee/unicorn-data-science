@@ -141,6 +141,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [Understanding Large Language Models](https://magazine.sebastianraschka.com/p/understanding-large-language-models)
 - [LLM101n - Andrej Kaparthy](https://github.com/karpathy/LLM101n)
 - [A Visual Guide to Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)
+- [Anti-hype LLM reading list](https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e)
 
 ### Prompt Engineering
 
