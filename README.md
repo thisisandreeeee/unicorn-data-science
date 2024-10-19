@@ -226,6 +226,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [Google interview warmup](https://grow.google/certificates/interview-warmup/)
 - [Red Flags to Look Out for When Joining a Data Team](https://eugeneyan.com/writing/red-flags/)
 - [Data Scientist Handbook](https://github.com/andresvourakis/data-scientist-handbook?tab=readme-ov-file)
+- [A guide to passing the A/B test interview question in tech companies](https://www.reddit.com/r/datascience/comments/1fyrawz/a_guide_to_passing_the_ab_test_interview_question/)
 
 ## Consulting
 
