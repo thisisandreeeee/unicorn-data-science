@@ -136,6 +136,8 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 
 ## Generative AI
 
+- [AI in organizations: Some tactics](https://www.oneusefulthing.org/p/ai-in-organizations-some-tactics)
+
 ### Large Language Models
 
 - [Understanding Large Language Models](https://magazine.sebastianraschka.com/p/understanding-large-language-models)
@@ -145,9 +147,10 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 
 ### Prompt Engineering
 
-- [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
+- [awesome-chatgpt-prompts](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts``)
 - [Prompt Engineering Guide](https://www.promptingguide.ai/)
 - [Anthropic prompt engineering overview](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
+- [Prompt Engineering Roadmap](https://roadmap.sh/prompt-engineering)
 
 ### LLM System Design
 
@@ -157,6 +160,11 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [rerankers](https://www.answer.ai/posts/2024-09-16-rerankers.html)
 - [ML and LLM system design: 450 case studies to learn from](https://www.evidentlyai.com/ml-system-design)
 - [Introducing Contextual Retrieval](https://www.anthropic.com/news/contextual-retrieval)
+- [Vector Databases Are the Wrong Abstraction](https://www.timescale.com/blog/vector-databases-are-the-wrong-abstraction/)
+
+### LLM Evaluation
+
+- [Creating a LLM-as-a-Judge That Drives Business Results](https://hamel.dev/blog/posts/llm-judge/)
 
 ## Analytics
 
