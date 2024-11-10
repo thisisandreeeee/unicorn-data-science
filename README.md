@@ -144,6 +144,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [LLM101n - Andrej Kaparthy](https://github.com/karpathy/LLM101n)
 - [A Visual Guide to Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)
 - [Anti-hype LLM reading list](https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e)
+- [Understanding LLMs from Scratch Using Middle School Math](https://towardsdatascience.com/understanding-llms-from-scratch-using-middle-school-math-e602d27ec876)
 
 ### Prompt Engineering
 
