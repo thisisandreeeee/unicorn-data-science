@@ -82,6 +82,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [KDE visualisation](https://mathisonian.github.io/kde/)
 - [Modeling conversion rates and saving millions of dollars using Kaplan-Meier and gamma distributions](https://better.engineering/2019/07/29/modeling-conversion-rates-and-saving-millions-of-dollars-using-kaplan-meier-and-gamma-distributions/)
 - [Robust Statistical Distances for Machine Learning](https://www.datadoghq.com/blog/engineering/robust-statistical-distances-for-machine-learning/)
+- [How Not To Sort By Average Rating](https://www.evanmiller.org/how-not-to-sort-by-average-rating.html)
 
 ### Inference
 
