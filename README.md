@@ -57,6 +57,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [MLOps Principles](https://ml-ops.org/content/mlops-principles)
 - [Continuous delivery and automation pipelines in machine learning](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
 - [No, you don't need MLOps](https://lakshmanok.medium.com/no-you-dont-need-mlops-5e1ce9fdaa4b)
+- [Python dependency management is a dumpster fire](https://nielscautaerts.xyz/python-dependency-management-is-a-dumpster-fire.html)
 
 ### Experimentation
 
