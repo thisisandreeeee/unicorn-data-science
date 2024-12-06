@@ -1,9 +1,10 @@
 # unicorn-data-science
+
 This repository contains useful articles and papers for the (aspiring) unicorn data scientist. Unlike other `awesome-xyz` repositories, this does not consolidate software tools or libraries; only reading materials.
 
 Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 
---------------------
+---
 
 <!-- toc -->
 
@@ -24,6 +25,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
   * [Large Language Models](#large-language-models)
   * [Prompt Engineering](#prompt-engineering)
   * [LLM System Design](#llm-system-design)
+  * [LLM Evaluation](#llm-evaluation)
 - [Analytics](#analytics)
   * [Analytics Engineering](#analytics-engineering)
   * [Data Governance](#data-governance)
@@ -36,7 +38,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 
 <!-- tocstop -->
 
---------------------
+---
 
 ## Engineering
 
@@ -186,6 +188,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [Simple ML for Sheets](https://simplemlforsheets.com/index.html)
 - [Data Pipeline Design Patterns](https://www.startdataengineering.com/post/design-patterns/)
 - [The Analytics Development Lifecycle](https://www.getdbt.com/resources/guides/the-analytics-development-lifecycle)
+- [The Rise of the Declarative Data Stack](https://www.rilldata.com/blog/the-rise-of-the-declarative-data-stack)
 
 ### Data Governance
 
@@ -193,8 +196,8 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [Biases in AI Systems](https://queue.acm.org/detail.cfm?id=3466134)
 - [How to Move Beyond a Monolithic Data Lake to a Distributed Data Mesh](https://martinfowler.com/articles/data-monolith-to-mesh.html)
 
- ### Dashboards
- 
+### Dashboards
+
 - [Apple's Human Interface Guidelines for Charts](https://developer.apple.com/design/human-interface-guidelines/components/content/charts)
 - [Better dashboards align with the scales of business decisions](https://observablehq.com/blog/align-dashboards-with-scales-of-business-decisions)
 
@@ -214,6 +217,8 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [The Great CEO Within](https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/edit)
 - [Coordination Headwind](https://komoroske.com/slime-mold/)
 - [The Art of Onboarding](https://locallyoptimistic.com/post/the-art-of-onboarding/)
+- [7 Mindsets That Are Slowing Down Your Career Growth](https://www.thecaringtechie.com/p/7-mindsets-that-are-slowing-down)
+- [3 Critical Skills You Need to Grow Beyond Senior Levels in Engineering](https://www.thecaringtechie.com/p/3-critical-skills-you-need-to-grow)
 
 ### Hiring
 
