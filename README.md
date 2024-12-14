@@ -26,6 +26,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
   * [Prompt Engineering](#prompt-engineering)
   * [LLM System Design](#llm-system-design)
   * [LLM Evaluation](#llm-evaluation)
+  * [GPUs](#gpus)
 - [Analytics](#analytics)
   * [Analytics Engineering](#analytics-engineering)
   * [Data Governance](#data-governance)
@@ -170,6 +171,10 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 ### LLM Evaluation
 
 - [Creating a LLM-as-a-Judge That Drives Business Results](https://hamel.dev/blog/posts/llm-judge/)
+
+### GPUs
+
+- [GPU Glossary](https://modal.com/gpu-glossary)
 
 ## Analytics
 
