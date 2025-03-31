@@ -144,6 +144,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 ## Generative AI
 
 - [AI in organizations: Some tactics](https://www.oneusefulthing.org/p/ai-in-organizations-some-tactics)
+- [AI Native Dev Landscape](https://landscape.ainativedev.io/)
 
 ### Large Language Models
 
