@@ -96,6 +96,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [Stop aggregating away the signal in your data](https://stackoverflow.blog/2022/03/03/stop-aggregating-away-the-signal-in-your-data/)
 - [Inferring Concept Drift Without Labeled Data](https://concept-drift.fastforwardlabs.com/)
 - [The hacker's guide to uncertainty estimates](https://erikbern.com/2018/10/08/the-hackers-guide-to-uncertainty-estimates.html)
+- [How Walmart Leverages CUPED and Reduces Experimentation Lifecycle](https://medium.com/walmartglobaltech/how-walmart-leverages-cuped-and-reduces-experimentation-lifecycle-eae2446c2ee4)
 
 ## Data Science
 
@@ -111,6 +112,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [Deep density networks and uncertainty in recommender systems](https://arxiv.org/pdf/1711.02487.pdf)
 - [Microsoft Recommenders](https://github.com/microsoft/recommenders)
 - [aman.ai recsys](https://aman.ai/recsys/)
+- [The Best Way to Use Text Embeddings Portably is With Parquet and Polars](https://minimaxir.com/2025/02/embeddings-parquet/)
 
 ### Causal Inference
 
@@ -223,8 +225,11 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [The Great CEO Within](https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/edit)
 - [Coordination Headwind](https://komoroske.com/slime-mold/)
 - [The Art of Onboarding](https://locallyoptimistic.com/post/the-art-of-onboarding/)
+- [Don't be Frupid](https://selix.net/notes/dont-be-frupid)
 - [7 Mindsets That Are Slowing Down Your Career Growth](https://www.thecaringtechie.com/p/7-mindsets-that-are-slowing-down)
 - [3 Critical Skills You Need to Grow Beyond Senior Levels in Engineering](https://www.thecaringtechie.com/p/3-critical-skills-you-need-to-grow)
+- [Best Practice vs. Fit Practice](https://blog.alexewerlof.com/p/best-practice)
+- [Cargo Culting](https://blog.alexewerlof.com/p/cargo-culting)
 
 ### Hiring
 
