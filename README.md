@@ -143,7 +143,6 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 
 ## Generative AI
 
-- [AI in organizations: Some tactics](https://www.oneusefulthing.org/p/ai-in-organizations-some-tactics)
 - [AI Native Dev Landscape](https://landscape.ainativedev.io/)
 
 ### Large Language Models
@@ -170,6 +169,14 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [ML and LLM system design: 450 case studies to learn from](https://www.evidentlyai.com/ml-system-design)
 - [Introducing Contextual Retrieval](https://www.anthropic.com/news/contextual-retrieval)
 - [Vector Databases Are the Wrong Abstraction](https://www.timescale.com/blog/vector-databases-are-the-wrong-abstraction/)
+
+### LLM Applications
+
+- [Here’s how I use LLMs to help me write code](https://simonwillison.net/2025/Mar/11/using-llms-for-code/)
+- [AI in organizations: Some tactics](https://www.oneusefulthing.org/p/ai-in-organizations-some-tactics)
+- [Improving Recommendation Systems & Search in the Age of LLMs](https://eugeneyan.com/writing/recsys-llm/)
+- [Synthetic Consumers](https://drive.google.com/file/d/1LVylkrK4fFrHC02TeZ_auxOx5GwGQyqP/view)
+- [LLMOps Is About People Too: The Human Element in AI Engineering](https://www.zenml.io/blog/llmops-is-about-people-too-the-human-element-in-ai-engineering)
 
 ### LLM Evaluation
 
