@@ -238,6 +238,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [3 Critical Skills You Need to Grow Beyond Senior Levels in Engineering](https://www.thecaringtechie.com/p/3-critical-skills-you-need-to-grow)
 - [Best Practice vs. Fit Practice](https://blog.alexewerlof.com/p/best-practice)
 - [Cargo Culting](https://blog.alexewerlof.com/p/cargo-culting)
+- [The Best Programmers I Know](https://endler.dev/2025/best-programmers/)
 
 ### Hiring
 
