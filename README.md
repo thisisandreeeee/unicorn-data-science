@@ -189,6 +189,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 ## Analytics
 
 - [Data Analytics Design Patterns](https://cloud.google.com/architecture/reference-patterns/overview)
+- [How AI will Disrupt BI As We Know It](https://roundup.getdbt.com/p/how-ai-will-disrupt-bi-as-we-know)
 
 ### Analytics Engineering
 
@@ -248,6 +249,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [Interviewing is a noisy prediction problem](https://erikbern.com/2018/05/02/interviewing-is-a-noisy-prediction-problem.html)
 - [How to set compensation using commensense principles](https://erikbern.com/2020/06/08/how-to-set-compensation-using-commonsense-principles.html)
 - [VP of Engineering hiring cheatsheet](https://notion.notion.site/VP-of-Engineering-hiring-cheatsheet-f7824eb3f60748bb997f9b9b14c073a5)
+- [Quantifying the statistical skills needed to be a Google Data Scientist](https://www.unofficialgoogledatascience.com/2025/03/quantifying-statistical-skills-needed.html)
 
 ### Interviewing
 
