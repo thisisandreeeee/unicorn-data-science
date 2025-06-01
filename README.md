@@ -155,10 +155,18 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 
 ### Prompt Engineering
 
-- [awesome-chatgpt-prompts](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts``)
+- [awesome-chatgpt-prompts](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts)
 - [Prompt Engineering Guide](https://www.promptingguide.ai/)
 - [Anthropic prompt engineering overview](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
 - [Prompt Engineering Roadmap](https://roadmap.sh/prompt-engineering)
+- [OpenAI Cookbook](https://cookbook.openai.com/)
+- [Google Prompt Design Strategies](https://ai.google.dev/gemini-api/docs/prompting-strategies)
+
+### Agents
+
+- [Zero to One: Learning Agentic Patterns](https://www.philschmid.de/agentic-pattern)
+- [A practical guide to building agents - OpenAI](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf)
+- [Building effective agents - Anthropic](https://www.anthropic.com/engineering/building-effective-agents)
 
 ### LLM System Design
 
@@ -169,7 +177,6 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [ML and LLM system design: 450 case studies to learn from](https://www.evidentlyai.com/ml-system-design)
 - [Introducing Contextual Retrieval](https://www.anthropic.com/news/contextual-retrieval)
 - [Vector Databases Are the Wrong Abstraction](https://www.timescale.com/blog/vector-databases-are-the-wrong-abstraction/)
-- [Zero to One: Learning Agentic Patterns](https://www.philschmid.de/agentic-pattern)
 
 ### LLM Applications
 
