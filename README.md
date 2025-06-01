@@ -24,6 +24,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [Generative AI](#generative-ai)
   * [Large Language Models](#large-language-models)
   * [Prompt Engineering](#prompt-engineering)
+  * [Agents](#agents)
   * [LLM System Design](#llm-system-design)
   * [LLM Evaluation](#llm-evaluation)
   * [GPUs](#gpus)
