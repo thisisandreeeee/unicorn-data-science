@@ -196,15 +196,17 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 ### GPUs
 
 - [GPU Glossary](https://modal.com/gpu-glossary)
+- [LLM Inference Economics from First Principles](https://www.tensoreconomics.com/p/llm-inference-economics-from-first)
 
 ## Analytics
 
 - [Data Analytics Design Patterns](https://cloud.google.com/architecture/reference-patterns/overview)
 - [How AI will Disrupt BI As We Know It](https://roundup.getdbt.com/p/how-ai-will-disrupt-bi-as-we-know)
+- [Coding for Economists](https://aeturrell.github.io/coding-for-economists/)
+- [Practical advice for analysis of large, complex data sets](http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html)
 
 ### Analytics Engineering
 
-- [Practical advice for analysis of large, complex data sets](http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html)
 - [What is an analytics engineer?](https://blog.getdbt.com/what-is-an-analytics-engineer/)
 - [The Modern Data Stack](https://blog.getdbt.com/future-of-the-modern-data-stack)
 - [Emerging architectures for modern data infrastructure](https://future.a16z.com/emerging-architectures-modern-data-infrastructure/)
@@ -212,11 +214,11 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [Choosing a Product Analytics Tool](https://sarahsnewsletter.substack.com/p/choosing-a-product-analytics-tool)
 - [2022 ETL Buyer’s Guide: How to Pick the Right Tool for Your Analytics Stack](https://mode.com/blog/etl-buyers-guide)
 - [Modern Data Stack in a Box with DuckDB](https://duckdb.org/2022/10/12/modern-data-stack-in-a-box.html)
-- [Coding for Economists](https://aeturrell.github.io/coding-for-economists/)
 - [Simple ML for Sheets](https://simplemlforsheets.com/index.html)
 - [Data Pipeline Design Patterns](https://www.startdataengineering.com/post/design-patterns/)
 - [The Analytics Development Lifecycle](https://www.getdbt.com/resources/guides/the-analytics-development-lifecycle)
 - [The Rise of the Declarative Data Stack](https://www.rilldata.com/blog/the-rise-of-the-declarative-data-stack)
+- [Nomadic Infrastructure Design for AI Workloads](https://www.tigrisdata.com/blog/nomadic-compute/)
 
 ### Data Governance
 
