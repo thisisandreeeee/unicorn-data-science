@@ -170,6 +170,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [Zero to One: Learning Agentic Patterns](https://www.philschmid.de/agentic-pattern)
 - [A practical guide to building agents - OpenAI](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf)
 - [Building effective agents - Anthropic](https://www.anthropic.com/engineering/building-effective-agents)
+- [How to Build an Agent](https://ampcode.com/how-to-build-an-agent)
 - [MCP Hub](https://mcphub.io/registry)
 - [MCP.so](https://mcp.so/)
 
