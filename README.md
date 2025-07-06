@@ -154,6 +154,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [A Visual Guide to Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)
 - [Anti-hype LLM reading list](https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e)
 - [Understanding LLMs from Scratch Using Middle School Math](https://towardsdatascience.com/understanding-llms-from-scratch-using-middle-school-math-e602d27ec876)
+- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 
 ### Prompt Engineering
 
@@ -199,6 +200,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 
 - [GPU Glossary](https://modal.com/gpu-glossary)
 - [LLM Inference Economics from First Principles](https://www.tensoreconomics.com/p/llm-inference-economics-from-first)
+- [Basic facts about GPUs](https://damek.github.io/random/basic-facts-about-gpus/)
 
 ## Analytics
 
