@@ -105,6 +105,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [Feature Engineering A-Z](https://feaz-book.com/)
 - [Applied Machine Learning for Tabular Data](https://aml4td.org/)
 - [Interpretable ML Book](https://christophm.github.io/interpretable-ml-book/)
+- [Machine Learning Visualized](https://ml-visualized.com/)
 
 ### Recommendations
 
@@ -188,6 +189,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [Improving Recommendation Systems & Search in the Age of LLMs](https://eugeneyan.com/writing/recsys-llm/)
 - [Synthetic Consumers](https://drive.google.com/file/d/1LVylkrK4fFrHC02TeZ_auxOx5GwGQyqP/view)
 - [LLMOps Is About People Too: The Human Element in AI Engineering](https://www.zenml.io/blog/llmops-is-about-people-too-the-human-element-in-ai-engineering)
+- [Field Notes From Shipping Real Code With Claude](https://diwank.space/field-notes-from-shipping-real-code-with-claude)
 
 ### LLM Evaluation
 
@@ -284,3 +286,4 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [Smart companies try to commoditize their products’ complements](https://www.joelonsoftware.com/2002/06/12/strategy-letter-v/)
 - [How to find consulting clients](https://chrisachard.com/how-to-find-consulting-clients)
 - [Doing Freelance Data Science Consulting in 2019](https://www.ethanrosenthal.com/2020/01/08/freelance-ds-consulting/)
+- [Official Lean AI Company Playbook](https://henrythe9th.substack.com/p/official-lean-ai-company-playbook)
