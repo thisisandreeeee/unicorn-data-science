@@ -115,6 +115,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [Microsoft Recommenders](https://github.com/microsoft/recommenders)
 - [aman.ai recsys](https://aman.ai/recsys/)
 - [The Best Way to Use Text Embeddings Portably is With Parquet and Polars](https://minimaxir.com/2025/02/embeddings-parquet/)
+- [AI Engineer 2025 - Improving RecSys & Search with LLM techniques](https://eugeneyan.com/speaking/aie-2025/)
 
 ### Causal Inference
 
@@ -146,6 +147,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 ## Generative AI
 
 - [AI Native Dev Landscape](https://landscape.ainativedev.io/)
+- [awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)
 
 ### Large Language Models
 
