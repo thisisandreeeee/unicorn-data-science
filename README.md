@@ -98,6 +98,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [Inferring Concept Drift Without Labeled Data](https://concept-drift.fastforwardlabs.com/)
 - [The hacker's guide to uncertainty estimates](https://erikbern.com/2018/10/08/the-hackers-guide-to-uncertainty-estimates.html)
 - [How Walmart Leverages CUPED and Reduces Experimentation Lifecycle](https://medium.com/walmartglobaltech/how-walmart-leverages-cuped-and-reduces-experimentation-lifecycle-eae2446c2ee4)
+- [A One-Page Primer on: Statistical Power](https://www.carlislerainey.com/blog/2025-08-30-1p-statistical-power/)
 
 ## Data Science
 
@@ -174,6 +175,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [Building effective agents - Anthropic](https://www.anthropic.com/engineering/building-effective-agents)
 - [How to Build an Agent](https://ampcode.com/how-to-build-an-agent)
 - [12 factor agents](https://github.com/humanlayer/12-factor-agents)
+- [Lessons on building an AI data analyst](https://www.pedronasc.com/articles/lessons-building-ai-data-analyst)
 
 ### LLM System Design
 
