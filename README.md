@@ -285,6 +285,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [Red Flags to Look Out for When Joining a Data Team](https://eugeneyan.com/writing/red-flags/)
 - [Data Scientist Handbook](https://github.com/andresvourakis/data-scientist-handbook?tab=readme-ov-file)
 - [A guide to passing the A/B test interview question in tech companies](https://www.reddit.com/r/datascience/comments/1fyrawz/a_guide_to_passing_the_ab_test_interview_question/)
+- [Top 50 Large Language Model (LLM) Interview Questions](https://drive.google.com/file/d/1cUxKspEXgQ64s4OFEw0kabf_qNauOPiH/view)
 
 ## Consulting
 
