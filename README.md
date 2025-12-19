@@ -156,10 +156,10 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [LLM101n - Andrej Kaparthy](https://github.com/karpathy/LLM101n)
 - [A Visual Guide to Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)
 - [Anti-hype LLM reading list](https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e)
-- [Understanding LLMs from Scratch Using Middle School Math](https://towardsdatascience.com/understanding-llms-from-scratch-using-middle-school-math-e602d27ec876)
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 - [Learning Deep Representations of Data Distributions](https://ma-lab-berkeley.github.io/deep-representation-learning-book/index.html)
 - [Hugging Face LLM Course](https://huggingface.co/learn/llm-course/chapter1/1)
+- [Transformers from Scratch](https://brandonrohrer.com/transformers.html)
 
 ### Prompt Engineering
 
@@ -207,6 +207,8 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [GPU Glossary](https://modal.com/gpu-glossary)
 - [LLM Inference Economics from First Principles](https://www.tensoreconomics.com/p/llm-inference-economics-from-first)
 - [Basic facts about GPUs](https://damek.github.io/random/basic-facts-about-gpus/)
+- [Making Deep Learning Go Brrrr From First Principles](https://horace.io/brrr_intro.html)
+- [Transformer Math 101](https://blog.eleuther.ai/transformer-math/)
 
 ## Analytics
 
