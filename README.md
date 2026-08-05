@@ -12,6 +12,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
   * [ML Engineering](#ml-engineering)
   * [Experimentation](#experimentation)
   * [Software Engineering](#software-engineering)
+  * [Forward Deployed Engineering](#forward-deployed-engineering)
 - [Statistics](#statistics)
   * [Distributions](#distributions)
   * [Inference](#inference)
@@ -76,6 +77,11 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [The Beginner's Guide to Databases](https://technically.substack.com/p/the-beginners-guide-to-databases)
 - [System Design 101](https://github.com/ByteByteGoHq/system-design-101)
 - [How to do a code review](https://google.github.io/eng-practices/review/reviewer/)
+
+### Forward Deployed Engineering
+
+- [The Forward Deployed Engineer Playbook: How to Structure, Run, and Scale an FDE Function in 2026](https://getperspective.ai/blog/the-forward-deployed-engineer-playbook-how-to-structure-run-and-scale-an-fde-function-in-2026)
+- [The Forward Deployed Engineer Playbook Explained](https://fde.academy/blog/forward-deployed-engineer-playbook#why-fdes-need-a-playbook-not-just-skills)
 
 ## Statistics
 
