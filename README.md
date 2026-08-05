@@ -166,6 +166,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [Learning Deep Representations of Data Distributions](https://ma-lab-berkeley.github.io/deep-representation-learning-book/index.html)
 - [Hugging Face LLM Course](https://huggingface.co/learn/llm-course/chapter1/1)
 - [Transformers from Scratch](https://brandonrohrer.com/transformers.html)
+- [Holding the LLM Stack in Your Head](https://thegustafson.com/series)
 
 ### Prompt Engineering
 
