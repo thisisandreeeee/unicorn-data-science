@@ -27,7 +27,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
   * [Prompt Engineering](#prompt-engineering)
   * [Agents](#agents)
   * [LLM System Design](#llm-system-design)
-  * [LLM Evaluation](#llm-evaluation)
+  * [Evals](#evals)
   * [GPUs](#gpus)
 - [Analytics](#analytics)
   * [Analytics Engineering](#analytics-engineering)
@@ -205,9 +205,10 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [LLMOps Is About People Too: The Human Element in AI Engineering](https://www.zenml.io/blog/llmops-is-about-people-too-the-human-element-in-ai-engineering)
 - [Field Notes From Shipping Real Code With Claude](https://diwank.space/field-notes-from-shipping-real-code-with-claude)
 
-### LLM Evaluation
+### Evals
 
 - [Creating a LLM-as-a-Judge That Drives Business Results](https://hamel.dev/blog/posts/llm-judge/)
+- [Demystifying evals for AI agents](https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents)
 
 ### GPUs
 
