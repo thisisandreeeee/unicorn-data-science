@@ -182,6 +182,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [Zero to One: Learning Agentic Patterns](https://www.philschmid.de/agentic-pattern)
 - [A practical guide to building agents - OpenAI](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf)
 - [Building effective agents - Anthropic](https://www.anthropic.com/engineering/building-effective-agents)
+- [Demystifying evals for AI agents](https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents)
 - [How to Build an Agent](https://ampcode.com/how-to-build-an-agent)
 - [12 factor agents](https://github.com/humanlayer/12-factor-agents)
 - [Lessons on building an AI data analyst](https://www.pedronasc.com/articles/lessons-building-ai-data-analyst)
