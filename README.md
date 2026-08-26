@@ -195,6 +195,7 @@ Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
 - [ML and LLM system design: 450 case studies to learn from](https://www.evidentlyai.com/ml-system-design)
 - [Introducing Contextual Retrieval](https://www.anthropic.com/news/contextual-retrieval)
 - [Vector Databases Are the Wrong Abstraction](https://www.timescale.com/blog/vector-databases-are-the-wrong-abstraction/)
+- [RAG Is Simpler Than You Think](https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think)
 
 ### LLM Applications
 
