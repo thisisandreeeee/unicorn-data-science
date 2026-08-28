@@ -150,15 +150,10 @@ This is a personal collection of useful resources from my journey to becoming a 
 - [Numerically stable and computationally efficient log-sum-exp](http://www.nowozin.net/sebastian/blog/streaming-log-sum-exp-computation.html)
 - [Interpreting loss curves](https://developers.google.com/machine-learning/testing-debugging/metrics/interpretic)
 - [Visualizing the Loss Landscape of a Neural Network](https://mathformachines.com/posts/visualizing-the-loss-landscape/)
-- [AI Content Generation Tools](https://airtable.com/shrDxAxCCxAZVtMnt/tbl3FzgFjvvuYZMm9)
 - [Google research tuning playbook](https://github.com/google-research/tuning_playbook)
-- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 - [Transformer Explainer](https://poloclub.github.io/transformer-explainer/)
 
 ## Generative AI
-
-- [AI Native Dev Landscape](https://landscape.ainativedev.io/)
-- [awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)
 
 ### Large Language Models
 
@@ -194,7 +189,6 @@ This is a personal collection of useful resources from my journey to becoming a 
 
 - [Building a Generative AI Platform](https://huyenchip.com/2024/07/25/genai-platform.html)
 - [Emerging Architectures for LLM Applications](https://a16z.com/emerging-architectures-for-llm-applications/)
-- [Open source LLM tools](https://huyenchip.com/llama-police.html)
 - [rerankers](https://www.answer.ai/posts/2024-09-16-rerankers.html)
 - [ML and LLM system design: 450 case studies to learn from](https://www.evidentlyai.com/ml-system-design)
 - [Introducing Contextual Retrieval](https://www.anthropic.com/news/contextual-retrieval)
