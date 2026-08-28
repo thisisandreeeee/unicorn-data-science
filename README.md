@@ -1,42 +1,57 @@
-# unicorn-data-science
+# 🦄 Unicorn Data Science
 
-This repository contains useful articles and papers for the (aspiring) unicorn data scientist. Unlike other `awesome-xyz` repositories, this does not consolidate software tools or libraries; only reading materials.
+**A curated reading list for becoming a well-rounded data scientist.**
 
-Pull requests are welcome! See [Contributing](./CONTRIBUTING.md).
+This is a personal collection of useful resources from my journey to becoming a unicorn data scientist: someone who can work across the full data science discipline, not just train models.
+
+> This is not another list of tools and libraries. It contains articles, papers, and guides that explain difficult ideas unusually well and remain useful over time.
+
+## Contributing
+
+Found something special that deserves a place here? I’d love to hear about it.
+
+You can either [open an issue](https://github.com/thisisandreeeee/unicorn-data-science/issues/new) to suggest it, or submit a pull request directly. If you choose to submit a PR, please read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
+
+## What is a unicorn data scientist?
+
+A data scientist who can work across the full discipline, not just model training.
+
+This collection covers:
 
 ---
 
 <!-- toc -->
 
 - [Engineering](#engineering)
-  * [ML Engineering](#ml-engineering)
-  * [Experimentation](#experimentation)
-  * [Software Engineering](#software-engineering)
-  * [Forward Deployed Engineering](#forward-deployed-engineering)
+  - [ML Engineering](#ml-engineering)
+  - [Experimentation](#experimentation)
+  - [Software Engineering](#software-engineering)
+  - [Forward Deployed Engineering](#forward-deployed-engineering)
 - [Statistics](#statistics)
-  * [Distributions](#distributions)
-  * [Inference](#inference)
+  - [Distributions](#distributions)
+  - [Inference](#inference)
 - [Data Science](#data-science)
-  * [Recommendations](#recommendations)
-  * [Causal Inference](#causal-inference)
-  * [Regression](#regression)
-  * [Forecasting](#forecasting)
-  * [Deep Learning](#deep-learning)
+  - [Recommendations](#recommendations)
+  - [Causal Inference](#causal-inference)
+  - [Regression](#regression)
+  - [Forecasting](#forecasting)
+  - [Deep Learning](#deep-learning)
 - [Generative AI](#generative-ai)
-  * [Large Language Models](#large-language-models)
-  * [Prompt Engineering](#prompt-engineering)
-  * [Agents](#agents)
-  * [LLM System Design](#llm-system-design)
-  * [Evals](#evals)
-  * [GPUs](#gpus)
+  - [Large Language Models](#large-language-models)
+  - [Prompt Engineering](#prompt-engineering)
+  - [Agents](#agents)
+  - [LLM System Design](#llm-system-design)
+  - [LLM Applications](#llm-applications)
+  - [Evals](#evals)
+  - [GPUs](#gpus)
 - [Analytics](#analytics)
-  * [Analytics Engineering](#analytics-engineering)
-  * [Data Governance](#data-governance)
-  * [Dashboards](#dashboards)
+  - [Analytics Engineering](#analytics-engineering)
+  - [Data Governance](#data-governance)
+  - [Dashboards](#dashboards)
 - [Teams](#teams)
-  * [Management](#management)
-  * [Hiring](#hiring)
-  * [Interviewing](#interviewing)
+  - [Management](#management)
+  - [Hiring](#hiring)
+  - [Interviewing](#interviewing)
 - [Consulting](#consulting)
 
 <!-- tocstop -->
