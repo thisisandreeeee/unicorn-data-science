@@ -6,19 +6,7 @@ This is a personal collection of useful resources from my journey to becoming a 
 
 > This is not another list of tools and libraries. It contains articles, papers, and guides that explain difficult ideas unusually well and remain useful over time.
 
-## Contributing
-
-Found something special that deserves a place here? I’d love to hear about it.
-
-You can either [open an issue](https://github.com/thisisandreeeee/unicorn-data-science/issues/new) to suggest it, or submit a pull request directly. If you choose to submit a PR, please read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
-
-## What is a unicorn data scientist?
-
-A data scientist who can work across the full discipline, not just model training.
-
-This collection covers:
-
----
+## Table of Contents
 
 <!-- toc -->
 
@@ -53,6 +41,7 @@ This collection covers:
   - [Hiring](#hiring)
   - [Interviewing](#interviewing)
 - [Consulting](#consulting)
+- [Contributing](#contributing)
 
 <!-- tocstop -->
 
@@ -322,3 +311,9 @@ This collection covers:
 - [How to find consulting clients](https://chrisachard.com/how-to-find-consulting-clients)
 - [Doing Freelance Data Science Consulting in 2019](https://www.ethanrosenthal.com/2020/01/08/freelance-ds-consulting/)
 - [Official Lean AI Company Playbook](https://henrythe9th.substack.com/p/official-lean-ai-company-playbook)
+
+## Contributing
+
+Found something special that deserves a place here? I’d love to hear about it.
+
+You can either [open an issue](https://github.com/thisisandreeeee/unicorn-data-science/issues/new) to suggest it, or submit a pull request directly. If you choose to submit a PR, please read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
