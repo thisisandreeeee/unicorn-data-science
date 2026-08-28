@@ -63,10 +63,10 @@ This is a personal collection of useful resources from my journey to becoming a 
 - [Monitoring Machine Learning Models in Production](https://christophergs.com/machine%20learning/2020/03/14/how-to-monitor-machine-learning-models/)
 - [ML engineering best practices](https://se-ml.github.io/practices/)
 - [Google MLOps whitepaper](https://services.google.com/fh/files/misc/practitioners_guide_to_mlops_whitepaper.pdf)
-- [Ways I Use Testing as a Data Scientist](https://www.peterbaumgartner.com/blog/testing-for-data-science/)
 - [MLOps Principles](https://ml-ops.org/content/mlops-principles)
 - [Continuous delivery and automation pipelines in machine learning](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
 - [No, you don't need MLOps](https://lakshmanok.medium.com/no-you-dont-need-mlops-5e1ce9fdaa4b)
+- [Nomadic Infrastructure Design for AI Workloads](https://www.tigrisdata.com/blog/nomadic-compute/)
 
 ### Software Engineering
 
@@ -78,6 +78,7 @@ This is a personal collection of useful resources from my journey to becoming a 
 - [System Design 101](https://github.com/ByteByteGoHq/system-design-101)
 - [How to do a code review](https://google.github.io/eng-practices/review/reviewer/)
 - [Python dependency management is a dumpster fire](https://nielscautaerts.xyz/python-dependency-management-is-a-dumpster-fire.html)
+- [Ways I Use Testing as a Data Scientist](https://www.peterbaumgartner.com/blog/testing-for-data-science/)
 
 ### Forward Deployed Engineering
 
@@ -99,12 +100,10 @@ This is a personal collection of useful resources from my journey to becoming a 
 ### Inference
 
 - [Common statistical tests are linear models](https://lindeloev.github.io/tests-as-linear/)
-- [Bayesian Optimization](https://distill.pub/2020/bayesian-optimization/)
 - [On Average, You’re Using the Wrong Average: Geometric & Harmonic Means in Data Analysis](https://towardsdatascience.com/on-average-youre-using-the-wrong-average-geometric-harmonic-means-in-data-analysis-2a703e21ea0)
 - [Stop aggregating away the signal in your data](https://stackoverflow.blog/2022/03/03/stop-aggregating-away-the-signal-in-your-data/)
 - [Inferring Concept Drift Without Labeled Data](https://concept-drift.fastforwardlabs.com/)
 - [The hacker's guide to uncertainty estimates](https://erikbern.com/2018/10/08/the-hackers-guide-to-uncertainty-estimates.html)
-- [How Walmart Leverages CUPED and Reduces Experimentation Lifecycle](https://medium.com/walmartglobaltech/how-walmart-leverages-cuped-and-reduces-experimentation-lifecycle-eae2446c2ee4)
 - [A One-Page Primer on: Statistical Power](https://www.carlislerainey.com/blog/2025-08-30-1p-statistical-power/)
 
 ### Experiment Design
@@ -112,6 +111,7 @@ This is a personal collection of useful resources from my journey to becoming a 
 - [Detecting Interference: An A/B Test of A/B Tests](https://engineering.linkedin.com/blog/2019/06/detecting-interference--an-a-b-test-of-a-b-tests)
 - [Switchback Tests and Randomized Experimentation Under Network Effects at DoorDash](https://medium.com/@DoorDash/switchback-tests-and-randomized-experimentation-under-network-effects-at-doordash-f1d938ab7c2a)
 - [Innovating Faster on Personalization Algorithms at Netflix Using Interleaving](https://netflixtechblog.com/interleaving-in-online-experiments-at-netflix-a04ee392ec55)
+- [How Walmart Leverages CUPED and Reduces Experimentation Lifecycle](https://medium.com/walmartglobaltech/how-walmart-leverages-cuped-and-reduces-experimentation-lifecycle-eae2446c2ee4)
 
 ## 3. Machine Learning
 
@@ -122,6 +122,7 @@ This is a personal collection of useful resources from my journey to becoming a 
 - [Applied Machine Learning for Tabular Data](https://aml4td.org/)
 - [Interpretable ML Book](https://christophm.github.io/interpretable-ml-book/)
 - [Machine Learning Visualized](https://ml-visualized.com/)
+- [Bayesian Optimization](https://distill.pub/2020/bayesian-optimization/)
 
 ### Search and Recommendations
 
@@ -132,6 +133,7 @@ This is a personal collection of useful resources from my journey to becoming a 
 - [aman.ai recsys](https://aman.ai/recsys/)
 - [The Best Way to Use Text Embeddings Portably is With Parquet and Polars](https://minimaxir.com/2025/02/embeddings-parquet/)
 - [AI Engineer 2025 - Improving RecSys & Search with LLM techniques](https://eugeneyan.com/speaking/aie-2025/)
+- [Improving Recommendation Systems & Search in the Age of LLMs](https://eugeneyan.com/writing/recsys-llm/)
 
 ### Causal Inference
 
@@ -153,7 +155,6 @@ This is a personal collection of useful resources from my journey to becoming a 
 - [Interpreting loss curves](https://developers.google.com/machine-learning/testing-debugging/metrics/interpretic)
 - [Visualizing the Loss Landscape of a Neural Network](https://mathformachines.com/posts/visualizing-the-loss-landscape/)
 - [Google research tuning playbook](https://github.com/google-research/tuning_playbook)
-- [Transformer Explainer](https://poloclub.github.io/transformer-explainer/)
 
 ## 4. Generative AI
 
@@ -167,6 +168,7 @@ This is a personal collection of useful resources from my journey to becoming a 
 - [Hugging Face LLM Course](https://huggingface.co/learn/llm-course/chapter1/1)
 - [Transformers from Scratch](https://brandonrohrer.com/transformers.html)
 - [Holding the LLM Stack in Your Head](https://thegustafson.com/series)
+- [Transformer Explainer](https://poloclub.github.io/transformer-explainer/)
 
 ### Agents
 
@@ -191,7 +193,6 @@ This is a personal collection of useful resources from my journey to becoming a 
 
 - [Here’s how I use LLMs to help me write code](https://simonwillison.net/2025/Mar/11/using-llms-for-code/)
 - [AI in organizations: Some tactics](https://www.oneusefulthing.org/p/ai-in-organizations-some-tactics)
-- [Improving Recommendation Systems & Search in the Age of LLMs](https://eugeneyan.com/writing/recsys-llm/)
 - [Synthetic Consumers](https://drive.google.com/file/d/1LVylkrK4fFrHC02TeZ_auxOx5GwGQyqP/view)
 - [LLMOps Is About People Too: The Human Element in AI Engineering](https://www.zenml.io/blog/llmops-is-about-people-too-the-human-element-in-ai-engineering)
 - [Field Notes From Shipping Real Code With Claude](https://diwank.space/field-notes-from-shipping-real-code-with-claude)
@@ -228,6 +229,7 @@ This is a personal collection of useful resources from my journey to becoming a 
 - [Coding for Economists](https://aeturrell.github.io/coding-for-economists/)
 - [Practical advice for analysis of large, complex data sets](http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html)
 - [North star metrics](https://future.com/north-star-metrics/)
+- [Choosing a Product Analytics Tool](https://sarahsnewsletter.substack.com/p/choosing-a-product-analytics-tool)
 
 ### Analytics Engineering
 
@@ -235,14 +237,12 @@ This is a personal collection of useful resources from my journey to becoming a 
 - [The Modern Data Stack](https://blog.getdbt.com/future-of-the-modern-data-stack)
 - [Emerging architectures for modern data infrastructure](https://future.a16z.com/emerging-architectures-modern-data-infrastructure/)
 - [Highly Opinionated Integrations](https://davidsj.substack.com/p/highly-opinionated-integrations)
-- [Choosing a Product Analytics Tool](https://sarahsnewsletter.substack.com/p/choosing-a-product-analytics-tool)
 - [2022 ETL Buyer’s Guide: How to Pick the Right Tool for Your Analytics Stack](https://mode.com/blog/etl-buyers-guide)
 - [Modern Data Stack in a Box with DuckDB](https://duckdb.org/2022/10/12/modern-data-stack-in-a-box.html)
 - [Simple ML for Sheets](https://simplemlforsheets.com/index.html)
 - [Data Pipeline Design Patterns](https://www.startdataengineering.com/post/design-patterns/)
 - [The Analytics Development Lifecycle](https://www.getdbt.com/resources/guides/the-analytics-development-lifecycle)
 - [The Rise of the Declarative Data Stack](https://www.rilldata.com/blog/the-rise-of-the-declarative-data-stack)
-- [Nomadic Infrastructure Design for AI Workloads](https://www.tigrisdata.com/blog/nomadic-compute/)
 
 ### Data Governance
 
