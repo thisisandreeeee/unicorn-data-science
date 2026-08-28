@@ -1,18 +1,26 @@
 # Contributing
 
-* To add a new entry, [edit the README.md file](https://github.com/thisisandreeeee/unicorn-data-science/edit/master/README.md) through Github's web interface or a text editor, and send a Pull Request.
-* See [Editing files in another user's repository](https://help.github.com/articles/editing-files-in-another-user-s-repository/), [Creating Pull Requests](https://help.github.com/articles/creating-a-pull-request/), [Using Pull Requests](https://help.github.com/articles/using-pull-requests/) for help on sending your patch.
-* New entries will be formatted with an automatically generated table of contents. See [setup instructions](#setup-instructions).
+Contributions are welcome through a pull request or a [suggestion issue](https://github.com/thisisandreeeee/unicorn-data-science/issues/new).
 
-## Setup instructions
+## What to contribute
 
-Table of contents are automatically inserted using [pre-commit hooks](https://pre-commit.com/). To get started:
+Add articles, papers, and guides that explain a difficult idea unusually well and remain useful over time. This repository does not collect software tools or libraries.
 
+Add each resource as `[Title](URL)` under the most relevant heading in [README.md](./README.md). Do not edit the generated table of contents near the top of the file.
+
+For a browser-only contribution, [edit README.md on GitHub](https://github.com/thisisandreeeee/unicorn-data-science/edit/master/README.md) and open a pull request. No local setup is required.
+
+## Local setup
+
+[Install uv](https://docs.astral.sh/uv/getting-started/installation/) if needed, then run:
+
+```sh
+uv sync
+uv run pre-commit install --install-hooks
+uv run pre-commit run --all-files
 ```
-pip install pre-commit==1.21.0
-pre-commit install
-pre-commit run --all-files
-```
+
+The pre-commit hook updates the table of contents. If it changes `README.md` during a commit, stage the file and commit again.
 
 ## Attribution
 
