@@ -1,0 +1,10 @@
+[project]
+name = "unicorn-data-science"
+version = "0.0.0"
+requires-python = ">=3.10"
+dependencies = []
+
+[dependency-groups]
+dev = [
+    "pre-commit>=4.6.2,<5",
+]
