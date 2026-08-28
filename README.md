@@ -10,44 +10,47 @@ This is a personal collection of useful resources from my journey to becoming a 
 
 <!-- toc -->
 
-- [Engineering](#engineering)
+- [1. Engineering](#1-engineering)
   - [ML Engineering](#ml-engineering)
-  - [Experimentation](#experimentation)
   - [Software Engineering](#software-engineering)
   - [Forward Deployed Engineering](#forward-deployed-engineering)
-- [Statistics](#statistics)
-  - [Distributions](#distributions)
+- [2. Statistics](#2-statistics)
+  - [Probability](#probability)
   - [Inference](#inference)
-- [Data Science](#data-science)
-  - [Recommendations](#recommendations)
+  - [Experiment Design](#experiment-design)
+- [3. Machine Learning](#3-machine-learning)
+  - [ML Fundamentals](#ml-fundamentals)
+  - [Search and Recommendations](#search-and-recommendations)
   - [Causal Inference](#causal-inference)
-  - [Regression](#regression)
-  - [Forecasting](#forecasting)
+  - [Regression and Forecasting](#regression-and-forecasting)
   - [Deep Learning](#deep-learning)
-- [Generative AI](#generative-ai)
-  - [Large Language Models](#large-language-models)
-  - [Prompt Engineering](#prompt-engineering)
+- [4. Generative AI](#4-generative-ai)
+  - [LLM Fundamentals](#llm-fundamentals)
   - [Agents](#agents)
   - [LLM System Design](#llm-system-design)
-  - [LLM Applications](#llm-applications)
+  - [Applied LLMs](#applied-llms)
+  - [LLM Inference](#llm-inference)
   - [Evals](#evals)
-  - [GPUs](#gpus)
-- [Analytics](#analytics)
+  - [Prompt Engineering](#prompt-engineering)
+- [5. Data & Analytics](#5-data--analytics)
+  - [Analytics](#analytics)
   - [Analytics Engineering](#analytics-engineering)
   - [Data Governance](#data-governance)
   - [Dashboards](#dashboards)
-- [Teams](#teams)
+- [6. Working as a Data Scientist](#6-working-as-a-data-scientist)
   - [Management](#management)
+  - [Ways of Working](#ways-of-working)
+  - [Craft](#craft)
   - [Hiring](#hiring)
   - [Interviewing](#interviewing)
-- [Consulting](#consulting)
+  - [Consulting](#consulting)
 - [Contributing](#contributing)
 
 <!-- tocstop -->
 
 ---
 
-## Engineering
+## 1. Engineering
 
 ### ML Engineering
 
@@ -64,13 +67,6 @@ This is a personal collection of useful resources from my journey to becoming a 
 - [MLOps Principles](https://ml-ops.org/content/mlops-principles)
 - [Continuous delivery and automation pipelines in machine learning](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
 - [No, you don't need MLOps](https://lakshmanok.medium.com/no-you-dont-need-mlops-5e1ce9fdaa4b)
-- [Python dependency management is a dumpster fire](https://nielscautaerts.xyz/python-dependency-management-is-a-dumpster-fire.html)
-
-### Experimentation
-
-- [Detecting Interference: An A/B Test of A/B Tests](https://engineering.linkedin.com/blog/2019/06/detecting-interference--an-a-b-test-of-a-b-tests)
-- [Switchback Tests and Randomized Experimentation Under Network Effects at DoorDash](https://medium.com/@DoorDash/switchback-tests-and-randomized-experimentation-under-network-effects-at-doordash-f1d938ab7c2a)
-- [Innovating Faster on Personalization Algorithms at Netflix Using Interleaving](https://netflixtechblog.com/interleaving-in-online-experiments-at-netflix-a04ee392ec55)
 
 ### Software Engineering
 
@@ -81,15 +77,16 @@ This is a personal collection of useful resources from my journey to becoming a 
 - [The Beginner's Guide to Databases](https://technically.substack.com/p/the-beginners-guide-to-databases)
 - [System Design 101](https://github.com/ByteByteGoHq/system-design-101)
 - [How to do a code review](https://google.github.io/eng-practices/review/reviewer/)
+- [Python dependency management is a dumpster fire](https://nielscautaerts.xyz/python-dependency-management-is-a-dumpster-fire.html)
 
 ### Forward Deployed Engineering
 
 - [The Forward Deployed Engineer Playbook: How to Structure, Run, and Scale an FDE Function in 2026](https://getperspective.ai/blog/the-forward-deployed-engineer-playbook-how-to-structure-run-and-scale-an-fde-function-in-2026)
 - [The Forward Deployed Engineer Playbook Explained](https://fde.academy/blog/forward-deployed-engineer-playbook#why-fdes-need-a-playbook-not-just-skills)
 
-## Statistics
+## 2. Statistics
 
-### Distributions
+### Probability
 
 - [Probability Distribution Explorer](http://bois.caltech.edu/distribution_explorer/)
 - [Common probability distributions](https://medium.com/@srowen/common-probability-distributions-347e6b945ce4)
@@ -110,7 +107,15 @@ This is a personal collection of useful resources from my journey to becoming a 
 - [How Walmart Leverages CUPED and Reduces Experimentation Lifecycle](https://medium.com/walmartglobaltech/how-walmart-leverages-cuped-and-reduces-experimentation-lifecycle-eae2446c2ee4)
 - [A One-Page Primer on: Statistical Power](https://www.carlislerainey.com/blog/2025-08-30-1p-statistical-power/)
 
-## Data Science
+### Experiment Design
+
+- [Detecting Interference: An A/B Test of A/B Tests](https://engineering.linkedin.com/blog/2019/06/detecting-interference--an-a-b-test-of-a-b-tests)
+- [Switchback Tests and Randomized Experimentation Under Network Effects at DoorDash](https://medium.com/@DoorDash/switchback-tests-and-randomized-experimentation-under-network-effects-at-doordash-f1d938ab7c2a)
+- [Innovating Faster on Personalization Algorithms at Netflix Using Interleaving](https://netflixtechblog.com/interleaving-in-online-experiments-at-netflix-a04ee392ec55)
+
+## 3. Machine Learning
+
+### ML Fundamentals
 
 - [The Illustrated Machine Learning website](https://illustrated-machine-learning.github.io/)
 - [Feature Engineering A-Z](https://feaz-book.com/)
@@ -118,7 +123,7 @@ This is a personal collection of useful resources from my journey to becoming a 
 - [Interpretable ML Book](https://christophm.github.io/interpretable-ml-book/)
 - [Machine Learning Visualized](https://ml-visualized.com/)
 
-### Recommendations
+### Search and Recommendations
 
 - [Google Recommendation Systems Crash Course](https://developers.google.com/machine-learning/recommendation)
 - [Deep Neural Networks for YouTube Recommendations](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf)
@@ -134,13 +139,10 @@ This is a personal collection of useful resources from my journey to becoming a 
 - [A Contextual-Bandit Approach to Personalized News Article Recommendation](https://arxiv.org/pdf/1003.0146.pdf)
 - [Python Causality Handbook](https://matheusfacure.github.io/python-causality-handbook/)
 
-### Regression
+### Regression and Forecasting
 
 - [OLS Regression Explained Visually](http://setosa.io/ev/ordinary-least-squares-regression/)
 - [How Instacart delivers on time (using quantile regression)](https://tech.instacart.com/how-instacart-delivers-on-time-using-quantile-regression-2383e2e03edb)
-
-### Forecasting
-
 - [Our quest for robust time series forecasting at scale](http://www.unofficialgoogledatascience.com/2017/04/our-quest-for-robust-time-series.html)
 - [Sorry ARIMA, but I’m Going Bayesian](https://multithreaded.stitchfix.com/blog/2016/04/21/forget-arima/)
 
@@ -153,28 +155,18 @@ This is a personal collection of useful resources from my journey to becoming a 
 - [Google research tuning playbook](https://github.com/google-research/tuning_playbook)
 - [Transformer Explainer](https://poloclub.github.io/transformer-explainer/)
 
-## Generative AI
+## 4. Generative AI
 
-### Large Language Models
+### LLM Fundamentals
 
 - [Understanding Large Language Models](https://magazine.sebastianraschka.com/p/understanding-large-language-models)
 - [LLM101n - Andrej Kaparthy](https://github.com/karpathy/LLM101n)
-- [A Visual Guide to Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)
 - [Anti-hype LLM reading list](https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e)
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 - [Learning Deep Representations of Data Distributions](https://ma-lab-berkeley.github.io/deep-representation-learning-book/index.html)
 - [Hugging Face LLM Course](https://huggingface.co/learn/llm-course/chapter1/1)
 - [Transformers from Scratch](https://brandonrohrer.com/transformers.html)
 - [Holding the LLM Stack in Your Head](https://thegustafson.com/series)
-
-### Prompt Engineering
-
-- [awesome-chatgpt-prompts](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts)
-- [Prompt Engineering Guide](https://www.promptingguide.ai/)
-- [Anthropic prompt engineering overview](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
-- [Prompt Engineering Roadmap](https://roadmap.sh/prompt-engineering)
-- [OpenAI Cookbook](https://cookbook.openai.com/)
-- [Google Prompt Design Strategies](https://ai.google.dev/gemini-api/docs/prompting-strategies)
 
 ### Agents
 
@@ -195,7 +187,7 @@ This is a personal collection of useful resources from my journey to becoming a 
 - [Vector Databases Are the Wrong Abstraction](https://www.timescale.com/blog/vector-databases-are-the-wrong-abstraction/)
 - [RAG Is Simpler Than You Think](https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think)
 
-### LLM Applications
+### Applied LLMs
 
 - [Here’s how I use LLMs to help me write code](https://simonwillison.net/2025/Mar/11/using-llms-for-code/)
 - [AI in organizations: Some tactics](https://www.oneusefulthing.org/p/ai-in-organizations-some-tactics)
@@ -204,25 +196,38 @@ This is a personal collection of useful resources from my journey to becoming a 
 - [LLMOps Is About People Too: The Human Element in AI Engineering](https://www.zenml.io/blog/llmops-is-about-people-too-the-human-element-in-ai-engineering)
 - [Field Notes From Shipping Real Code With Claude](https://diwank.space/field-notes-from-shipping-real-code-with-claude)
 
-### Evals
-
-- [Creating a LLM-as-a-Judge That Drives Business Results](https://hamel.dev/blog/posts/llm-judge/)
-- [Demystifying evals for AI agents](https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents)
-
-### GPUs
+### LLM Inference
 
 - [GPU Glossary](https://modal.com/gpu-glossary)
 - [LLM Inference Economics from First Principles](https://www.tensoreconomics.com/p/llm-inference-economics-from-first)
 - [Basic facts about GPUs](https://damek.github.io/random/basic-facts-about-gpus/)
 - [Making Deep Learning Go Brrrr From First Principles](https://horace.io/brrr_intro.html)
 - [Transformer Math 101](https://blog.eleuther.ai/transformer-math/)
+- [A Visual Guide to Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)
 
-## Analytics
+### Evals
+
+- [Creating a LLM-as-a-Judge That Drives Business Results](https://hamel.dev/blog/posts/llm-judge/)
+- [Demystifying evals for AI agents](https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents)
+
+### Prompt Engineering
+
+- [awesome-chatgpt-prompts](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts)
+- [Prompt Engineering Guide](https://www.promptingguide.ai/)
+- [Anthropic prompt engineering overview](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
+- [Prompt Engineering Roadmap](https://roadmap.sh/prompt-engineering)
+- [OpenAI Cookbook](https://cookbook.openai.com/)
+- [Google Prompt Design Strategies](https://ai.google.dev/gemini-api/docs/prompting-strategies)
+
+## 5. Data & Analytics
+
+### Analytics
 
 - [Data Analytics Design Patterns](https://cloud.google.com/architecture/reference-patterns/overview)
 - [How AI will Disrupt BI As We Know It](https://roundup.getdbt.com/p/how-ai-will-disrupt-bi-as-we-know)
 - [Coding for Economists](https://aeturrell.github.io/coding-for-economists/)
 - [Practical advice for analysis of large, complex data sets](http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html)
+- [North star metrics](https://future.com/north-star-metrics/)
 
 ### Analytics Engineering
 
@@ -250,22 +255,27 @@ This is a personal collection of useful resources from my journey to becoming a 
 - [Apple's Human Interface Guidelines for Charts](https://developer.apple.com/design/human-interface-guidelines/components/content/charts)
 - [Better dashboards align with the scales of business decisions](https://observablehq.com/blog/align-dashboards-with-scales-of-business-decisions)
 
-## Teams
+## 6. Working as a Data Scientist
 
 ### Management
 
 - [Hashicorp manager charter](https://works.hashicorp.com/articles/manager-charter)
-- [Good DS vs. Bad DS](https://ianwhitestone.work/good-ds-bad-ds)
 - [Open decision making](https://web.stanford.edu/~ouster/cgi-bin/decisions.php)
-- [North star metrics](https://future.com/north-star-metrics/)
-- [Agile analytics](https://locallyoptimistic.com/post/agile-analytics-p1/)
-- [Modern data culture stack](https://humansofdata.atlan.com/2021/12/modern-data-culture-stack/)
 - [So You Want to Become a Data Science Manager?](https://medium.com/deliberate-data-science/so-you-want-become-a-data-science-manager-4ff9544e6827)
 - [Mochary Method Curriculum](https://docs.google.com/document/d/18FiJbYn53fTtPmphfdCKT2TMWH-8Y2L-MLqDk-MFV4s/preview?pru=AAABhJk6izM*8NM-ASg_-AehSTTdRjwR3w)
-- [Gitlab Data Team Handbook](https://about.gitlab.com/handbook/business-technology/data-team/)
 - [The Great CEO Within](https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/edit)
+
+### Ways of Working
+
+- [Agile analytics](https://locallyoptimistic.com/post/agile-analytics-p1/)
+- [Modern data culture stack](https://humansofdata.atlan.com/2021/12/modern-data-culture-stack/)
+- [Gitlab Data Team Handbook](https://about.gitlab.com/handbook/business-technology/data-team/)
 - [Coordination Headwind](https://komoroske.com/slime-mold/)
 - [The Art of Onboarding](https://locallyoptimistic.com/post/the-art-of-onboarding/)
+
+### Craft
+
+- [Good DS vs. Bad DS](https://ianwhitestone.work/good-ds-bad-ds)
 - [Don't be Frupid](https://selix.net/notes/dont-be-frupid)
 - [7 Mindsets That Are Slowing Down Your Career Growth](https://www.thecaringtechie.com/p/7-mindsets-that-are-slowing-down)
 - [3 Critical Skills You Need to Grow Beyond Senior Levels in Engineering](https://www.thecaringtechie.com/p/3-critical-skills-you-need-to-grow)
@@ -298,7 +308,7 @@ This is a personal collection of useful resources from my journey to becoming a 
 - [A guide to passing the A/B test interview question in tech companies](https://www.reddit.com/r/datascience/comments/1fyrawz/a_guide_to_passing_the_ab_test_interview_question/)
 - [Top 50 Large Language Model (LLM) Interview Questions](https://drive.google.com/file/d/1cUxKspEXgQ64s4OFEw0kabf_qNauOPiH/view)
 
-## Consulting
+### Consulting
 
 - [10 Reads for Data Scientists Getting Started with Business Models](https://www.conordewey.com/blog/10-reads-for-data-scientists-getting-started-with-business-models/)
 - [Smart companies try to commoditize their products’ complements](https://www.joelonsoftware.com/2002/06/12/strategy-letter-v/)
