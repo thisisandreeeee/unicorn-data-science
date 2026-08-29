@@ -29,7 +29,7 @@ This is a personal collection of useful resources from my journey to becoming a 
   - [Agents](#agents)
   - [LLM System Design](#llm-system-design)
   - [Applied LLMs](#applied-llms)
-  - [LLM Inference](#llm-inference)
+  - [LLM Training and Inference](#llm-training-and-inference)
   - [Evals](#evals)
   - [Prompt Engineering](#prompt-engineering)
 - [5. Data & Analytics](#5-data--analytics)
@@ -198,12 +198,13 @@ This is a personal collection of useful resources from my journey to becoming a 
 - [LLMOps Is About People Too: The Human Element in AI Engineering](https://www.zenml.io/blog/llmops-is-about-people-too-the-human-element-in-ai-engineering)
 - [Field Notes From Shipping Real Code With Claude](https://diwank.space/field-notes-from-shipping-real-code-with-claude)
 
-### LLM Inference
+### LLM Training and Inference
 
 - [GPU Glossary](https://modal.com/gpu-glossary)
 - [LLM Inference Economics from First Principles](https://www.tensoreconomics.com/p/llm-inference-economics-from-first)
 - [Basic facts about GPUs](https://damek.github.io/random/basic-facts-about-gpus/)
 - [Making Deep Learning Go Brrrr From First Principles](https://horace.io/brrr_intro.html)
+- [The Ultra-Scale Playbook](https://huggingface.co/spaces/nanotron/ultrascale-playbook)
 - [Transformer Math 101](https://blog.eleuther.ai/transformer-math/)
 - [A Visual Guide to Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)
 
