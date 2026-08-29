@@ -169,6 +169,7 @@ This is a personal collection of useful resources from my journey to becoming a 
 - [Transformers from Scratch](https://brandonrohrer.com/transformers.html)
 - [Holding the LLM Stack in Your Head](https://thegustafson.com/series)
 - [Transformer Explainer](https://poloclub.github.io/transformer-explainer/)
+- [What is SwiGLU?](https://jcarlosroldan.com/post/348/what-is-swiglu)
 
 ### Agents
 
