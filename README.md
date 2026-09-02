@@ -161,6 +161,7 @@ This is a personal collection of useful resources from my journey to becoming a 
 ### LLM Fundamentals
 
 - [Understanding Large Language Models](https://magazine.sebastianraschka.com/p/understanding-large-language-models)
+- [Understanding and Coding the Self-Attention Mechanism of Large Language Models From Scratch](https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html)
 - [LLM101n - Andrej Kaparthy](https://github.com/karpathy/LLM101n)
 - [Anti-hype LLM reading list](https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e)
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
