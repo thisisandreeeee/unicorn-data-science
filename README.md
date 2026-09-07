@@ -198,6 +198,7 @@ This is a personal collection of useful resources from my journey to becoming a 
 - [Synthetic Consumers](https://drive.google.com/file/d/1LVylkrK4fFrHC02TeZ_auxOx5GwGQyqP/view)
 - [LLMOps Is About People Too: The Human Element in AI Engineering](https://www.zenml.io/blog/llmops-is-about-people-too-the-human-element-in-ai-engineering)
 - [Field Notes From Shipping Real Code With Claude](https://diwank.space/field-notes-from-shipping-real-code-with-claude)
+- [Running a Software Factory Efficiently at Uber Scale](https://www.uber.com/gb/en/blog/efficient-software-factory/)
 
 ### LLM Training and Inference
 
